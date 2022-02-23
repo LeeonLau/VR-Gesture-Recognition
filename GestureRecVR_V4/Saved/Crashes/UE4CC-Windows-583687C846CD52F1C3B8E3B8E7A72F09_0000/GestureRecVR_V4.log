@@ -1,0 +1,1698 @@
+﻿Log file open, 02/22/22 13:52:16
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: GestureRecVR_V4
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.186413
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin SteamVR
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.26-CL-15973114
+LogInit: Engine Version: 4.26.2-15973114+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 2009) (), CPU: AMD Ryzen 5 5600X 6-Core Processor             , GPU: NVIDIA GeForce RTX 3070
+LogInit: Compiled (64-bit): Apr 12 2021 06:14:10
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Leeon/Documents/Unreal Projects/GestureRecVR_V4/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2022.02.22-13.52.16:524][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2022.02.22-13.52.16:524][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2022.02.22-13.52.16:524][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Leeon/Documents/Unreal Projects/GestureRecVR_V4/Saved/Config/Windows/Engine.ini]
+[2022.02.22-13.52.16:524][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2022.02.22-13.52.16:524][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusion:0]]
+[2022.02.22-13.52.16:524][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusionStaticFraction:0]]
+[2022.02.22-13.52.16:524][  0]LogConfig: Setting CVar [[vr.InstancedStereo:1]]
+[2022.02.22-13.52.16:524][  0]LogConfig: Setting CVar [[r.SeparateTranslucency:0]]
+[2022.02.22-13.52.16:524][  0]LogConfig: Setting CVar [[r.HZBOcclusion:0]]
+[2022.02.22-13.52.16:524][  0]LogConfig: Setting CVar [[r.SSR.MaxRoughness:0]]
+[2022.02.22-13.52.16:524][  0]LogConfig: Setting CVar [[r.rhicmdbypass:0]]
+[2022.02.22-13.52.16:524][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Leeon/Documents/Unreal Projects/GestureRecVR_V4/Saved/Config/Windows/Engine.ini]
+[2022.02.22-13.52.16:524][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Leeon/Documents/Unreal Projects/GestureRecVR_V4/Saved/Config/Windows/Engine.ini]
+[2022.02.22-13.52.16:524][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2022.02.22-13.52.16:524][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2022.02.22-13.52.16:524][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2022.02.22-13.52.16:524][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2022.02.22-13.52.16:524][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2022.02.22-13.52.16:524][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2022.02.22-13.52.16:524][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2022.02.22-13.52.16:524][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2022.02.22-13.52.16:524][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2022.02.22-13.52.16:524][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2022.02.22-13.52.16:524][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2022.02.22-13.52.16:524][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2022.02.22-13.52.16:524][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2022.02.22-13.52.16:524][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2022.02.22-13.52.16:524][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Leeon/Documents/Unreal Projects/GestureRecVR_V4/Saved/Config/Windows/Engine.ini]
+[2022.02.22-13.52.16:524][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2022.02.22-13.52.16:524][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2022.02.22-13.52.16:524][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2022.02.22-13.52.16:524][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2022.02.22-13.52.16:524][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2022.02.22-13.52.16:524][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2022.02.22-13.52.16:524][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2022.02.22-13.52.16:524][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2022.02.22-13.52.16:524][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2022.02.22-13.52.16:524][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2022.02.22-13.52.16:524][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2022.02.22-13.52.16:524][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2022.02.22-13.52.16:524][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2022.02.22-13.52.16:524][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2022.02.22-13.52.16:524][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Leeon/Documents/Unreal Projects/GestureRecVR_V4/Saved/Config/Windows/Engine.ini]
+[2022.02.22-13.52.16:525][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Leeon/Documents/Unreal Projects/GestureRecVR_V4/Saved/Config/Windows/Engine.ini]
+[2022.02.22-13.52.16:564][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Leeon/Documents/Unreal Projects/GestureRecVR_V4/Saved/Config/Windows/Scalability.ini]
+[2022.02.22-13.52.16:564][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.02.22-13.52.16:564][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.02.22-13.52.16:565][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Leeon/Documents/Unreal Projects/GestureRecVR_V4/Saved/Config/Windows/Scalability.ini]
+[2022.02.22-13.52.16:565][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2022.02.22-13.52.16:565][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Leeon/Documents/Unreal Projects/GestureRecVR_V4/Saved/Config/Windows/Scalability.ini]
+[2022.02.22-13.52.16:565][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.02.22-13.52.16:565][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.02.22-13.52.16:565][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.02.22-13.52.16:565][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.02.22-13.52.16:565][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.02.22-13.52.16:565][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.02.22-13.52.16:565][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.02.22-13.52.16:565][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.02.22-13.52.16:565][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.02.22-13.52.16:565][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.02.22-13.52.16:565][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.02.22-13.52.16:565][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.02.22-13.52.16:565][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.02.22-13.52.16:565][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.02.22-13.52.16:565][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.02.22-13.52.16:565][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.02.22-13.52.16:565][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.02.22-13.52.16:565][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.02.22-13.52.16:565][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Leeon/Documents/Unreal Projects/GestureRecVR_V4/Saved/Config/Windows/Scalability.ini]
+[2022.02.22-13.52.16:565][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2022.02.22-13.52.16:565][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.02.22-13.52.16:565][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.02.22-13.52.16:565][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2022.02.22-13.52.16:565][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.02.22-13.52.16:565][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2022.02.22-13.52.16:565][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.02.22-13.52.16:565][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2022.02.22-13.52.16:565][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2022.02.22-13.52.16:565][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.02.22-13.52.16:565][  0]LogConfig: Setting CVar [[r.BloomQuality:1]]
+[2022.02.22-13.52.16:565][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2022.02.22-13.52.16:565][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.02.22-13.52.16:565][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.02.22-13.52.16:565][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.02.22-13.52.16:565][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.02.22-13.52.16:565][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.02.22-13.52.16:565][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.02.22-13.52.16:565][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.02.22-13.52.16:565][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.02.22-13.52.16:565][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.02.22-13.52.16:565][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.02.22-13.52.16:565][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.02.22-13.52.16:565][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.02.22-13.52.16:565][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.02.22-13.52.16:565][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.02.22-13.52.16:565][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.02.22-13.52.16:565][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.02.22-13.52.16:565][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.02.22-13.52.16:565][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.02.22-13.52.16:565][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Leeon/Documents/Unreal Projects/GestureRecVR_V4/Saved/Config/Windows/Scalability.ini]
+[2022.02.22-13.52.16:565][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.02.22-13.52.16:565][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.02.22-13.52.16:565][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.02.22-13.52.16:565][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.02.22-13.52.16:565][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.02.22-13.52.16:565][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.02.22-13.52.16:565][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.02.22-13.52.16:565][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.02.22-13.52.16:565][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.02.22-13.52.16:565][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Leeon/Documents/Unreal Projects/GestureRecVR_V4/Saved/Config/Windows/Scalability.ini]
+[2022.02.22-13.52.16:565][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:4]]
+[2022.02.22-13.52.16:565][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.02.22-13.52.16:565][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2022.02.22-13.52.16:565][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.02.22-13.52.16:565][  0]LogConfig: Setting CVar [[r.SceneColorFormat:2]]
+[2022.02.22-13.52.16:565][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.02.22-13.52.16:565][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2022.02.22-13.52.16:565][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.02.22-13.52.16:565][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.02.22-13.52.16:565][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.02.22-13.52.16:565][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.02.22-13.52.16:565][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.02.22-13.52.16:565][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.02.22-13.52.16:565][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.02.22-13.52.16:565][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.02.22-13.52.16:565][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.02.22-13.52.16:565][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.02.22-13.52.16:566][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.02.22-13.52.16:566][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.02.22-13.52.16:566][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.02.22-13.52.16:566][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.02.22-13.52.16:566][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.02.22-13.52.16:566][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.02.22-13.52.16:566][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.02.22-13.52.16:566][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.02.22-13.52.16:566][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.02.22-13.52.16:566][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.02.22-13.52.16:566][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Leeon/Documents/Unreal Projects/GestureRecVR_V4/Saved/Config/Windows/Scalability.ini]
+[2022.02.22-13.52.16:566][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.02.22-13.52.16:566][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.02.22-13.52.16:566][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/Leeon/Documents/Unreal Projects/GestureRecVR_V4/Saved/Config/Windows/Scalability.ini]
+[2022.02.22-13.52.16:566][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.02.22-13.52.16:566][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.02.22-13.52.16:566][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.02.22-13.52.16:566][  0]LogInit: Selected Device Profile: [Windows]
+[2022.02.22-13.52.16:566][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2022.02.22-13.52.16:566][  0]LogHAL: Display: Platform has ~ 16 GB [17078153216 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.02.22-13.52.16:566][  0]LogInit: Going up to parent DeviceProfile []
+[2022.02.22-13.52.16:566][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Leeon/Documents/Unreal Projects/GestureRecVR_V4/Saved/Config/Windows/Scalability.ini]
+[2022.02.22-13.52.16:566][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.02.22-13.52.16:566][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.02.22-13.52.16:566][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Leeon/Documents/Unreal Projects/GestureRecVR_V4/Saved/Config/Windows/Scalability.ini]
+[2022.02.22-13.52.16:566][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2022.02.22-13.52.16:566][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Leeon/Documents/Unreal Projects/GestureRecVR_V4/Saved/Config/Windows/Scalability.ini]
+[2022.02.22-13.52.16:566][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.02.22-13.52.16:566][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.02.22-13.52.16:566][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.02.22-13.52.16:566][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.02.22-13.52.16:566][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.02.22-13.52.16:566][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.02.22-13.52.16:566][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.02.22-13.52.16:566][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.02.22-13.52.16:566][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.02.22-13.52.16:566][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.02.22-13.52.16:566][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.02.22-13.52.16:566][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.02.22-13.52.16:566][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.02.22-13.52.16:566][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.02.22-13.52.16:566][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.02.22-13.52.16:566][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.02.22-13.52.16:566][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.02.22-13.52.16:566][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.02.22-13.52.16:566][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Leeon/Documents/Unreal Projects/GestureRecVR_V4/Saved/Config/Windows/Scalability.ini]
+[2022.02.22-13.52.16:566][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2022.02.22-13.52.16:566][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.02.22-13.52.16:566][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.02.22-13.52.16:566][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2022.02.22-13.52.16:566][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.02.22-13.52.16:566][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2022.02.22-13.52.16:566][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.02.22-13.52.16:566][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2022.02.22-13.52.16:566][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2022.02.22-13.52.16:566][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.02.22-13.52.16:566][  0]LogConfig: Setting CVar [[r.BloomQuality:1]]
+[2022.02.22-13.52.16:566][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2022.02.22-13.52.16:566][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.02.22-13.52.16:566][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.02.22-13.52.16:566][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.02.22-13.52.16:566][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.02.22-13.52.16:566][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.02.22-13.52.16:566][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.02.22-13.52.16:566][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.02.22-13.52.16:566][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.02.22-13.52.16:566][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.02.22-13.52.16:566][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.02.22-13.52.16:566][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.02.22-13.52.16:566][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.02.22-13.52.16:566][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.02.22-13.52.16:566][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.02.22-13.52.16:566][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.02.22-13.52.16:566][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.02.22-13.52.16:566][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.02.22-13.52.16:566][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.02.22-13.52.16:566][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Leeon/Documents/Unreal Projects/GestureRecVR_V4/Saved/Config/Windows/Scalability.ini]
+[2022.02.22-13.52.16:566][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.02.22-13.52.16:567][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.02.22-13.52.16:567][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.02.22-13.52.16:567][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.02.22-13.52.16:567][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.02.22-13.52.16:567][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.02.22-13.52.16:567][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.02.22-13.52.16:567][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.02.22-13.52.16:567][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.02.22-13.52.16:567][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Leeon/Documents/Unreal Projects/GestureRecVR_V4/Saved/Config/Windows/Scalability.ini]
+[2022.02.22-13.52.16:567][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:4]]
+[2022.02.22-13.52.16:567][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.02.22-13.52.16:567][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2022.02.22-13.52.16:567][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.02.22-13.52.16:567][  0]LogConfig: Setting CVar [[r.SceneColorFormat:2]]
+[2022.02.22-13.52.16:567][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.02.22-13.52.16:567][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2022.02.22-13.52.16:567][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.02.22-13.52.16:567][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.02.22-13.52.16:567][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.02.22-13.52.16:567][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.02.22-13.52.16:567][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.02.22-13.52.16:567][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.02.22-13.52.16:567][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.02.22-13.52.16:567][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.02.22-13.52.16:567][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.02.22-13.52.16:567][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.02.22-13.52.16:567][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.02.22-13.52.16:567][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.02.22-13.52.16:567][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.02.22-13.52.16:567][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.02.22-13.52.16:567][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.02.22-13.52.16:567][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.02.22-13.52.16:567][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.02.22-13.52.16:567][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.02.22-13.52.16:567][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.02.22-13.52.16:567][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.02.22-13.52.16:567][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Leeon/Documents/Unreal Projects/GestureRecVR_V4/Saved/Config/Windows/Scalability.ini]
+[2022.02.22-13.52.16:567][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.02.22-13.52.16:567][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.02.22-13.52.16:567][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/Leeon/Documents/Unreal Projects/GestureRecVR_V4/Saved/Config/Windows/Scalability.ini]
+[2022.02.22-13.52.16:567][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.02.22-13.52.16:567][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.02.22-13.52.16:567][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.02.22-13.52.16:567][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.02.22-13.52.16:567][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2022.02.22-13.52.16:567][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2022.02.22-13.52.16:567][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2022.02.22-13.52.16:567][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Leeon/Documents/Unreal Projects/GestureRecVR_V4/Saved/Config/Windows/Engine.ini]
+[2022.02.22-13.52.16:567][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Leeon/Documents/Unreal Projects/GestureRecVR_V4/Saved/Config/Windows/Editor.ini]
+[2022.02.22-13.52.16:567][  0]LogInit: Computer: DESKTOP-7QHTOIG
+[2022.02.22-13.52.16:567][  0]LogInit: User: Leeon
+[2022.02.22-13.52.16:567][  0]LogInit: CPU Page size=4096, Cores=6
+[2022.02.22-13.52.16:567][  0]LogInit: High frequency timer resolution =14.318180 MHz
+[2022.02.22-13.52.16:567][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2022.02.22-13.52.16:567][  0]LogMemory: Platform Memory Stats for Windows
+[2022.02.22-13.52.16:567][  0]LogMemory: Process Physical Memory: 137.02 MB used, 137.03 MB peak
+[2022.02.22-13.52.16:567][  0]LogMemory: Process Virtual Memory: 110.20 MB used, 110.20 MB peak
+[2022.02.22-13.52.16:567][  0]LogMemory: Physical Memory: 10933.80 MB used,  5353.20 MB free, 16287.00 MB total
+[2022.02.22-13.52.16:567][  0]LogMemory: Virtual Memory: 134197688.00 MB used,  20043.86 MB free, 134217728.00 MB total
+[2022.02.22-13.52.16:572][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.02.22-13.52.16:600][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2022.02.22-13.52.16:600][  0]LogInit: Using OS detected language (en-GB).
+[2022.02.22-13.52.16:600][  0]LogInit: Using OS detected locale (en-GB).
+[2022.02.22-13.52.16:603][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so the 'en' localization will be used.
+[2022.02.22-13.52.16:761][  0]LogInit: Setting process to per monitor DPI aware
+[2022.02.22-13.52.16:768][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.02.22-13.52.16:779][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.02.22-13.52.16:779][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.02.22-13.52.18:485][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2022.02.22-13.52.18:485][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2022.02.22-13.52.18:485][  0]LogD3D11RHI: D3D11 adapters:
+[2022.02.22-13.52.18:555][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 3070' (Feature Level 11_0)
+[2022.02.22-13.52.18:555][  0]LogD3D11RHI:       8043/0/8143 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2022.02.22-13.52.18:556][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2022.02.22-13.52.18:556][  0]LogD3D11RHI:       0/0/8143 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2022.02.22-13.52.18:556][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2022.02.22-13.52.18:565][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2022.02.22-13.52.18:565][  0]LogD3D11RHI:     GPU DeviceId: 0x2488 (for the marketing name, search the web for "GPU Device Id")
+[2022.02.22-13.52.18:565][  0]LogWindows: EnumDisplayDevices:
+[2022.02.22-13.52.18:565][  0]LogWindows:    0. 'NVIDIA GeForce RTX 3070' (P:1 D:1)
+[2022.02.22-13.52.18:565][  0]LogWindows:    1. 'NVIDIA GeForce RTX 3070' (P:0 D:1)
+[2022.02.22-13.52.18:566][  0]LogWindows:    2. 'NVIDIA GeForce RTX 3070' (P:0 D:0)
+[2022.02.22-13.52.18:566][  0]LogWindows:    3. 'NVIDIA GeForce RTX 3070' (P:0 D:0)
+[2022.02.22-13.52.18:566][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2022.02.22-13.52.18:566][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 3070
+[2022.02.22-13.52.18:566][  0]LogD3D11RHI:   Driver Version: 497.29 (internal:30.0.14.9729, unified:497.29)
+[2022.02.22-13.52.18:566][  0]LogD3D11RHI:      Driver Date: 12-15-2021
+[2022.02.22-13.52.18:566][  0]LogRHI: Texture pool is 5630 MB (70% of 8043 MB)
+[2022.02.22-13.52.18:608][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2022.02.22-13.52.18:609][  0]LogD3D11RHI: Async texture creation enabled
+[2022.02.22-13.52.18:609][  0]LogD3D11RHI: Array index from any shader is supported
+[2022.02.22-13.52.18:632][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2022.02.22-13.52.18:632][  0]LogRHI: GeForceNow SDK initialized: 1
+[2022.02.22-13.52.18:847][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2022.02.22-13.52.18:862][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.02.22-13.52.18:862][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.02.22-13.52.18:862][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.02.22-13.52.18:862][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.02.22-13.52.18:862][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.02.22-13.52.18:862][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.02.22-13.52.18:862][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.02.22-13.52.18:862][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.02.22-13.52.18:862][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.02.22-13.52.18:862][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.02.22-13.52.18:878][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.02.22-13.52.18:878][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.02.22-13.52.18:885][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.02.22-13.52.18:891][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2022.02.22-13.52.18:896][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.02.22-13.52.18:902][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.02.22-13.52.18:908][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2022.02.22-13.52.18:913][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2022.02.22-13.52.18:919][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2022.02.22-13.52.18:935][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2022.02.22-13.52.18:935][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2022.02.22-13.52.18:940][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2022.02.22-13.52.18:946][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2022.02.22-13.52.18:951][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2022.02.22-13.52.18:957][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2022.02.22-13.52.18:966][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.02.22-13.52.18:966][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.02.22-13.52.18:973][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2022.02.22-13.52.18:979][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.02.22-13.52.18:985][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.02.22-13.52.18:991][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.02.22-13.52.18:991][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2022.02.22-13.52.18:996][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.02.22-13.52.19:037][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.02.22-13.52.19:037][  0]LogShaderCompilers: Guid format shader working directory is -26 characters bigger than the processId version (../../../../../../Users/Leeon/Documents/Unreal Projects/GestureRecVR_V4/Intermediate/Shaders/WorkingDirectory/16952/).
+[2022.02.22-13.52.19:037][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Leeon/AppData/Local/Temp/UnrealShaderWorkingDir/610F64E545700830AEAFFD81A9C40E3D/'.
+[2022.02.22-13.52.19:037][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2022.02.22-13.52.19:037][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2022.02.22-13.52.19:664][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2022.02.22-13.52.19:703][  0]LogDerivedDataCache: Loaded boot cache 0.04s 98MB C:/Users/Leeon/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2022.02.22-13.52.19:703][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Leeon/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2022.02.22-13.52.19:703][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Leeon/Documents/Unreal Projects/GestureRecVR_V4/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.02.22-13.52.19:703][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2022.02.22-13.52.19:703][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Leeon/Documents/Unreal Projects/GestureRecVR_V4/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.02.22-13.52.19:703][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2022.02.22-13.52.19:713][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2022.02.22-13.52.19:713][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.02.22-13.52.19:713][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2022.02.22-13.52.19:718][  0]LogDerivedDataCache: Speed tests for C:/Users/Leeon/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2022.02.22-13.52.19:718][  0]LogDerivedDataCache: Display: Performance to C:/Users/Leeon/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.02ms. RandomReadSpeed=1669.56MBs, RandomWriteSpeed=197.93MBs. Assigned SpeedClass 'Local'
+[2022.02.22-13.52.19:720][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Leeon/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.02.22-13.52.19:720][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.02.22-13.52.19:720][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2022.02.22-13.52.19:762][  0]LogSlate: Using FreeType 2.10.0
+[2022.02.22-13.52.19:763][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.02.22-13.52.19:780][  0]LogAssetRegistry: FAssetRegistry took 0.0018 seconds to start up
+[2022.02.22-13.52.19:960][  0]LogInit: Selected Device Profile: [Windows]
+[2022.02.22-13.52.19:960][  0]LogInit: Active device profile: [000002130FE0A200][000002130DC31CC0 49] Windows
+[2022.02.22-13.52.19:960][  0]LogInit: Profiles: [000002130FE0A200][000002130DC31CC0 49] Windows, [000002130FD85600][000002130F878180 49] WindowsNoEditor, [000002130FE09800][000002130F87C300 49] WindowsServer, [000002130FD85F00][000002130F880480 49] WindowsClient, [000002130FE0AB00][000002130F884600 49] IOS, [000002130FD87300][000002130F888780 49] iPadAir, [000002130FE0A600][000002130F88C900 49] iPadAir2, [000002130FD35D00][000002130F894BC0 49] IPadPro, [000002130FD35E00][000002130F890C00 49] iPadAir3, [000002130FD84A00][000002130F898D80 49] iPadAir4, [000002130FD37600][000002130F89CF00 49] iPadMini2, [000002130FD87000][0000021310A47080 49] iPadMini3, [000002130FD35400][0000021310A4B200 49] iPadMini4, [000002130FD84600][0000021310A4F380 49] iPadMini5, [000002130FD49300][0000021310A57640 49] iPhone6, [000002130FD49400][0000021310A53680 49] iPodTouch6, [000002130FD34600][0000021310A5B8C0 49] iPhone7, [000002130FD35000][000002130F875900 49] iPodTouch7, [000002130FD4AB00][0000021310A5FA40 49] iPhone5S, [000002130FD36800][0000021310A63B80 49] iPhone6Plus, [000002130FD4BC00][0000021310A6BD00 49] iPhone6S, [000002130FD37400][0000021310A6E1C0 49] iPhone6SPlus, [000002130FD48700][0000021310A72340 49] iPhone7Plus, [000002130FD34A00][0000021310A764C0 49] iPhoneSE, [000002130FD4A300][0000021310A7A640 49] iPhone8, [000002130FD35700][0000021310A7E7C0 49] iPhone8Plus, [000002130FD48200][0000021310A82940 49] iPhoneX, [000002130FD36500][0000021310A86AC0 49] iPhoneXS, [000002130FD49E00][0000021310A8AC40 49] iPhoneXSMax, [000002130FD35800][0000021310A8EDC0 49] iPhoneXR, [000002130FD48D00][0000021310A92F40 49] iPhone11, [000002130FD36400][0000021310A970C0 49] iPhone11Pro, [000002130FD4A100][0000021310A9B240 49] iPhone11ProMax, [000002130FD35F00][0000021310A9F3C0 49] iPhoneSE2, [000002130FD49C00][0000021310AA3540 49] iPhone12Mini, [000002130FD36C00][0000021310AA76C0 49] iPhone12, [000002130FD49B00][0000021310A67800 49] iPhone12Pro, [000002130FD36D00][0000021310AAB940 49] iPhone12ProMax, [000002130FE09A00][0000021310AAFA80 49] iPadPro105, [000002130FD36700][0000021310AB3BC0 49] iPadPro129, [000002130FE08500][0000021310ABBD40 49] iPadPro97, [000002130FD36600][0000021310ABE200 49] iPadPro2_129, [000002130FE0B000][0000021310AC2380 49] iPad5, [000002130FD37700][0000021310AC6500 49] iPad6, [000002130FE08800][0000021310ACA680 49] iPad7, [000002130FD35600][0000021310ACE800 49] iPad8, [000002130FE09F00][0000021310AD2980 49] iPadPro11, [000002130FD34200][0000021310AD6B00 49] iPadPro2_11, [000002130FE08900][0000021310ADAC80 49] iPadPro3_129, [000002130FD37B00][0000021310ADEE00 49] iPadPro4_129, [000002130FE09700][0000021310AE2F80 49] AppleTV, [000002130FD36100][0000021310AE7100 49] AppleTV4K, [000002130FE09E00][0000021310AEB280 49] TVOS, [000002130FD37800][0000021310AEF400 49] Mac, [000002130FE09B00][0000021310AF3580 49] MacClient, [000002130FD35500][0000021310AF7700 49] MacNoEditor, [000002130FE0A900][0000021310AFB880 49] MacServer, [000002130FD37D00][0000021310AB79C0 49] Linux, [000002130FE08600][0000021310AFFB00 49] LinuxAArch64, [000002130FD37200][0000021310B03C40 49] LinuxNoEditor, [000002130FE08200][0000021310B0A100 49] LinuxAArch64NoEditor, [000002130FD34900][0000021310B0E280 49] LinuxClient, [000002130FE09100][0000021310B12400 49] LinuxAArch64Client, [000002130FD34D00][0000021310B16580 49] LinuxServer, [000002130FE09200][0000021310B1A700 49] LinuxAArch64Server, [000002130FD35900][0000021310B1E880 49] Android, [000002130FE08D00][0000021310B22A00 49] Android_Low, [000002130FD37E00][0000021310B26B80 49] Android_Mid, [000002130FE08C00][0000021310B2AD00 49] Android_High, [000002130FD35A00][0000021310B2EE80 49] Android_Default, [000002130FE09600][0000021310B33000 49] Android_Adreno4xx, [000002130FD34300][0000021310B37180 49] Android_Adreno5xx_Low, [000002130FE09900][0000021310B3B300 49] Android_Adreno5xx, [000002130FD86100][0000021310B3F480 49] Android_Adreno6xx, [000002130FD49200][0000021310B43600 49] Android_Adreno6xx_Vulkan, [000002130FD86600][0000021310B47780 49] Android_Mali_T6xx, [000002130FD4AF00][0000021310B4B900 49] Android_Mali_T7xx, [000002130FD87600][0000021310B07A40 49] Android_Mali_T8xx, [000002130FD4BF00][0000021310B4FB80 49] Android_Mali_G71, [000002130FD85500][0000021310B53CC0 49] Android_Mali_G72, [000002130FD48600][0000021310B5A180 49] Android_Mali_G72_Vulkan, [000002130FD87400][0000021310B5E300 49] Android_Mali_G76, [000002130FD49100][0000021310B62480 49] Android_Mali_G76_Vulkan, [000002130FD85200][0000021310B66600 49] Android_Mali_G77, [000002130FD49900][0000021310B6A780 49] Android_Mali_G77_Vulkan, [000002130FD86700][0000021310B6E900 49] Android_Vulkan_SM5, [000002130FD4B600][0000021310B72A80 49] Android_PowerVR_G6xxx, [000002130FD84800][0000021310B76C00 49] Android_PowerVR_GT7xxx, [000002130FD48900][0000021310B7AD80 49] Android_PowerVR_GE8xxx, [000002130FD86D00][0000021310B7EF00 49] Android_PowerVR_GM9xxx, [000002130FD49000][0000021310B83080 49] Android_PowerVR_GM9xxx_Vulkan, [000002130FD85A00][0000021310B87200 49] Android_TegraK1, [000002130FD4B800][0000021310B8B380 49] Android_Unknown_Vulkan, [000002130FD85300][0000021310B8F500 49] Lumin, [000002130FD49600][0000021310B93680 49] Lumin_Desktop, [000002130FD84E00][0000021310B97800 49] HoloLens, 
+[2022.02.22-13.52.20:042][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.02.22-13.52.20:042][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.02.22-13.52.20:042][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.02.22-13.52.20:042][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.02.22-13.52.20:042][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.02.22-13.52.20:054][  0]LogNetVersion: GestureRecVR_V4 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 2971907211)
+[2022.02.22-13.52.20:360][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2022.02.22-13.52.20:401][  0]LogPackageLocalizationCache: Processed 22 localized package path(s) for 1 prioritized culture(s) in 0.041099 seconds
+[2022.02.22-13.52.20:405][  0]LogUObjectArray: 16831 objects as part of root set at end of initial load.
+[2022.02.22-13.52.20:405][  0]LogUObjectAllocator: 4209728 out of 0 bytes used by permanent object pool.
+[2022.02.22-13.52.20:405][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.02.22-13.52.20:569][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.02.22-13.52.20:576][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.02.22-13.52.20:741][  0]SourceControl: Source control is disabled
+[2022.02.22-13.52.20:741][  0]SourceControl: Source control is disabled
+[2022.02.22-13.52.20:743][  0]SourceControl: Source control is disabled
+[2022.02.22-13.52.20:745][  0]SourceControl: Source control is disabled
+[2022.02.22-13.52.20:767][  0]SourceControl: Source control is disabled
+[2022.02.22-13.52.20:772][  0]LogUProjectInfo: Found projects:
+[2022.02.22-13.52.20:775][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.02.22-13.52.20:775][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.02.22-13.52.20:788][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.02.22-13.52.20:822][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.02.22-13.52.20:822][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.02.22-13.52.20:962][  0]LogOcInput: OculusInput pre-init called
+[2022.02.22-13.52.20:969][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2022.02.22-13.52.20:969][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2022.02.22-13.52.20:975][  0]LogCollectionManager: Loaded 0 collections in 0.001121 seconds
+[2022.02.22-13.52.21:018][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Leeon/Documents/Unreal Projects/GestureRecVR_V4/Saved/Collections/' took 0.00s
+[2022.02.22-13.52.21:018][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Leeon/Documents/Unreal Projects/GestureRecVR_V4/Content/Developers/Leeon/Collections/' took 0.00s
+[2022.02.22-13.52.21:018][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Leeon/Documents/Unreal Projects/GestureRecVR_V4/Content/Collections/' took 0.00s
+[2022.02.22-13.52.21:018][  0]LogEngine: Initializing Engine...
+[2022.02.22-13.52.21:019][  0]LogHMD: SteamVR initialized.  Driver: lighthouse  Display: LHR-2B6E7D6D
+[2022.02.22-13.52.21:020][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2022.02.22-13.52.21:113][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.02.22-13.52.21:119][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.02.22-13.52.21:144][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.02.22-13.52.21:147][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.02.22-13.52.21:147][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.02.22-13.52.21:147][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.02.22-13.52.21:147][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.02.22-13.52.21:147][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.02.22-13.52.21:147][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.02.22-13.52.21:147][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.02.22-13.52.21:147][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.02.22-13.52.21:147][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.02.22-13.52.21:147][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.02.22-13.52.21:147][  0]LogAudio: Display: Using built-in audio occlusion.
+[2022.02.22-13.52.21:147][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2022.02.22-13.52.21:155][  0]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.22-13.52.21:155][  0]LogAudioMixer: Display: 1: FrontRight
+[2022.02.22-13.52.21:174][  0]LogAudioMixer: Display: Using Audio Device HyperX Headset (High Definition Audio Device)
+[2022.02.22-13.52.21:176][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.02.22-13.52.21:177][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.02.22-13.52.21:177][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.02.22-13.52.21:178][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.02.22-13.52.21:178][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.02.22-13.52.21:178][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.02.22-13.52.21:179][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.02.22-13.52.21:179][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.02.22-13.52.21:179][  0]LogInit: FAudioDevice initialized.
+[2022.02.22-13.52.21:179][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.02.22-13.52.21:179][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.02.22-13.52.21:219][  0]LogDerivedDataCache: Saved boot cache 0.04s 98MB C:/Users/Leeon/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2022.02.22-13.52.21:222][  0]LogInit: Texture streaming: Enabled
+[2022.02.22-13.52.21:230][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.2-15973114+++UE4+Release-4.26
+[2022.02.22-13.52.21:232][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.02.22-13.52.21:233][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2022.02.22-13.52.21:234][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2022.02.22-13.52.21:257][  0]LogInit: Transaction tracking system initialized
+[2022.02.22-13.52.21:271][  0]BlueprintLog: New page: Editor Load
+[2022.02.22-13.52.21:315][  0]LocalizationService: Localization service is disabled
+[2022.02.22-13.52.21:331][  0]TimingProfiler: Initialize
+[2022.02.22-13.52.21:331][  0]TimingProfiler: OnSessionChanged
+[2022.02.22-13.52.21:331][  0]LoadingProfiler: Initialize
+[2022.02.22-13.52.21:331][  0]LoadingProfiler: OnSessionChanged
+[2022.02.22-13.52.21:331][  0]NetworkingProfiler: Initialize
+[2022.02.22-13.52.21:331][  0]NetworkingProfiler: OnSessionChanged
+[2022.02.22-13.52.21:331][  0]MemoryProfiler: Initialize
+[2022.02.22-13.52.21:331][  0]MemoryProfiler: OnSessionChanged
+[2022.02.22-13.52.21:365][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.02.22-13.52.21:365][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.02.22-13.52.21:497][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2022.02.22-13.52.21:497][  0]LogCook: Display: Mobile HDR setting 1
+[2022.02.22-13.52.21:594][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Leeon/Documents/Unreal Projects/GestureRecVR_V4/Content/' took 0.01s
+[2022.02.22-13.52.21:700][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.02.22-13.52.21:703][  0]SourceControl: Source control is disabled
+[2022.02.22-13.52.21:703][  0]LogUnrealEdMisc: Loading editor; pre map load, took 5.917
+[2022.02.22-13.52.21:703][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Leeon/Documents/Unreal Projects/GestureRecVR_V4/Content/VirtualRealityBP/Maps/MotionControllerMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.02.22-13.52.21:703][  0]LightingResults: New page: Lighting Build
+[2022.02.22-13.52.21:703][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.02.22-13.52.21:703][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.22-13.52.21:703][  0]MapCheck: New page: Map Check
+[2022.02.22-13.52.21:704][  0]LightingResults: New page: Lighting Build
+[2022.02.22-13.52.21:708][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2022.02.22-13.52.22:549][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'MotionControllerMap'.
+[2022.02.22-13.52.22:550][  0]LogAIModule: Creating AISystem for world MotionControllerMap
+[2022.02.22-13.52.22:558][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.02.22-13.52.22:567][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2022.02.22-13.52.22:567][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.02.22-13.52.22:567][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.14ms to complete.
+[2022.02.22-13.52.22:567][  0]LogFileHelpers: Loading map 'MotionControllerMap' took 0.864
+[2022.02.22-13.52.22:569][  0]LogUnrealEdMisc: Total Editor Startup Time, took 6.783
+[2022.02.22-13.52.22:700][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.22-13.52.22:705][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.22-13.52.22:708][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.22-13.52.22:713][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.22-13.52.22:743][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0078 seconds. Added 3601 classes and 859 folders.
+[2022.02.22-13.52.22:749][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2022.02.22-13.52.22:759][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.02.22-13.52.22:759][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.22-13.52.22:759][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.02.22-13.52.22:759][  0]LogPakFile: OnPakFileMounted2Time == 0.000008
+[2022.02.22-13.52.22:766][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.02.22-13.52.22:766][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.22-13.52.22:766][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.02.22-13.52.22:766][  0]LogPakFile: OnPakFileMounted2Time == 0.000010
+[2022.02.22-13.52.22:769][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2022.02.22-13.52.22:769][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.22-13.52.22:769][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2022.02.22-13.52.22:769][  0]LogPakFile: OnPakFileMounted2Time == 0.000013
+[2022.02.22-13.52.22:773][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.02.22-13.52.22:774][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.22-13.52.22:774][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.02.22-13.52.22:774][  0]LogPakFile: OnPakFileMounted2Time == 0.000016
+[2022.02.22-13.52.22:778][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.02.22-13.52.22:778][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.22-13.52.22:778][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.02.22-13.52.22:778][  0]LogPakFile: OnPakFileMounted2Time == 0.000019
+[2022.02.22-13.52.22:781][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.02.22-13.52.22:781][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.22-13.52.22:781][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.02.22-13.52.22:781][  0]LogPakFile: OnPakFileMounted2Time == 0.000022
+[2022.02.22-13.52.22:785][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.02.22-13.52.22:785][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.22-13.52.22:785][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.02.22-13.52.22:785][  0]LogPakFile: OnPakFileMounted2Time == 0.000025
+[2022.02.22-13.52.22:789][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.02.22-13.52.22:789][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.22-13.52.22:789][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.02.22-13.52.22:789][  0]LogPakFile: OnPakFileMounted2Time == 0.000027
+[2022.02.22-13.52.22:795][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.02.22-13.52.22:795][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.22-13.52.22:795][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.02.22-13.52.22:795][  0]LogPakFile: OnPakFileMounted2Time == 0.000030
+[2022.02.22-13.52.22:799][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.02.22-13.52.22:799][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.22-13.52.22:799][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.02.22-13.52.22:799][  0]LogPakFile: OnPakFileMounted2Time == 0.000033
+[2022.02.22-13.52.22:802][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.02.22-13.52.22:802][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.22-13.52.22:802][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.02.22-13.52.22:802][  0]LogPakFile: OnPakFileMounted2Time == 0.000036
+[2022.02.22-13.52.22:806][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.02.22-13.52.22:807][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.22-13.52.22:807][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.02.22-13.52.22:807][  0]LogPakFile: OnPakFileMounted2Time == 0.000038
+[2022.02.22-13.52.22:810][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.02.22-13.52.22:810][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.22-13.52.22:810][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.02.22-13.52.22:810][  0]LogPakFile: OnPakFileMounted2Time == 0.000041
+[2022.02.22-13.52.22:814][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.02.22-13.52.22:814][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.22-13.52.22:814][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.02.22-13.52.22:814][  0]LogPakFile: OnPakFileMounted2Time == 0.000043
+[2022.02.22-13.52.22:817][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.02.22-13.52.22:817][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.22-13.52.22:817][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.02.22-13.52.22:817][  0]LogPakFile: OnPakFileMounted2Time == 0.000046
+[2022.02.22-13.52.22:821][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.02.22-13.52.22:821][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.22-13.52.22:821][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.02.22-13.52.22:821][  0]LogPakFile: OnPakFileMounted2Time == 0.000048
+[2022.02.22-13.52.22:825][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.02.22-13.52.22:825][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.22-13.52.22:825][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.02.22-13.52.22:825][  0]LogPakFile: OnPakFileMounted2Time == 0.000050
+[2022.02.22-13.52.22:828][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.02.22-13.52.22:828][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.22-13.52.22:828][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.02.22-13.52.22:828][  0]LogPakFile: OnPakFileMounted2Time == 0.000053
+[2022.02.22-13.52.22:832][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.02.22-13.52.22:832][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.22-13.52.22:832][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.02.22-13.52.22:832][  0]LogPakFile: OnPakFileMounted2Time == 0.000055
+[2022.02.22-13.52.22:839][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.02.22-13.52.22:839][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.22-13.52.22:839][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.02.22-13.52.22:839][  0]LogPakFile: OnPakFileMounted2Time == 0.000058
+[2022.02.22-13.52.22:843][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.02.22-13.52.22:843][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.22-13.52.22:843][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.02.22-13.52.22:843][  0]LogPakFile: OnPakFileMounted2Time == 0.000061
+[2022.02.22-13.52.22:847][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.02.22-13.52.22:847][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.22-13.52.22:847][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.02.22-13.52.22:847][  0]LogPakFile: OnPakFileMounted2Time == 0.000063
+[2022.02.22-13.52.22:850][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2022.02.22-13.52.22:850][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.22-13.52.22:850][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2022.02.22-13.52.22:850][  0]LogPakFile: OnPakFileMounted2Time == 0.000065
+[2022.02.22-13.52.22:855][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.02.22-13.52.22:855][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.22-13.52.22:855][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.02.22-13.52.22:855][  0]LogPakFile: OnPakFileMounted2Time == 0.000068
+[2022.02.22-13.52.22:858][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.02.22-13.52.22:858][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.22-13.52.22:858][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.02.22-13.52.22:858][  0]LogPakFile: OnPakFileMounted2Time == 0.000070
+[2022.02.22-13.52.22:862][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.02.22-13.52.22:862][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.22-13.52.22:862][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.02.22-13.52.22:862][  0]LogPakFile: OnPakFileMounted2Time == 0.000072
+[2022.02.22-13.52.22:980][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2022.02.22-13.52.22:983][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 2 classes and 0 folders.
+[2022.02.22-13.52.23:097][  0]LogSlate: Took 0.000103 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.02.22-13.52.23:098][  0]LogSlate: Took 0.000080 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.02.22-13.52.23:106][  0]LogSlate: Took 0.004417 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.02.22-13.52.23:239][  0]LogRenderer: Reallocating scene render targets to support 1232x692 Format 26 NumSamples 1 (Frame:1).
+[2022.02.22-13.52.23:343][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2022.02.22-13.52.23:343][  0]LogLoad: (Engine Initialization) Total time: 7.56 seconds
+[2022.02.22-13.52.23:343][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.02.22-13.52.23:343][  0]LogInit: First time updating LLM stats...
+[2022.02.22-13.52.23:359][  0]LogSteamVRInputDevice: Display: SteamVR runtime 1.5.17 loaded.
+[2022.02.22-13.52.23:360][  0]LogSteamVRInputDevice: Display: Action Manifest Path: ../../../../../../Users/Leeon/Documents/Unreal Projects/GestureRecVR_V4/Config/SteamVRBindings/steamvr_manifest.json
+[2022.02.22-13.52.23:360][  0]LogSteamVRInputDevice: Display: Controller Bindings Path: ../../../../../../Users/Leeon/Documents/Unreal Projects/GestureRecVR_V4/Config/SteamVRBindings
+[2022.02.22-13.52.23:364][  0]LogSteamVRInputDevice: Searching for Controller Bindings files at: ../../../../../../Users/Leeon/Documents/Unreal Projects/GestureRecVR_V4/Config/SteamVRBindings
+[2022.02.22-13.52.23:430][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Registering Application Manifest ../../../../../../Users/Leeon/Documents/Unreal Projects/GestureRecVR_V4/Config/steamvr_ue_editor_app.json : VRApplicationError_None
+[2022.02.22-13.52.23:434][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Editor Application [16952][application.generated.ue.gesturerecvr_v4-15973114.ue4editor.exe] identified to SteamVR: VRApplicationError_None
+[2022.02.22-13.52.23:434][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Trying to load Action Manifest from: C:/Users/Leeon/Documents/Unreal Projects/GestureRecVR_V4/Config/SteamVRBindings/steamvr_manifest.json
+[2022.02.22-13.52.23:434][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Manifest Path Result: Success
+[2022.02.22-13.52.23:434][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting main action set: Success
+[2022.02.22-13.52.23:434][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/controllerleft
+[2022.02.22-13.52.23:434][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.22-13.52.23:435][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/controllerright
+[2022.02.22-13.52.23:435][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.22-13.52.23:435][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_camera
+[2022.02.22-13.52.23:435][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.22-13.52.23:435][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_chest
+[2022.02.22-13.52.23:435][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.22-13.52.23:435][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_shoulder_left
+[2022.02.22-13.52.23:435][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.22-13.52.23:435][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_shoulder_right
+[2022.02.22-13.52.23:435][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.22-13.52.23:435][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_elbow_left
+[2022.02.22-13.52.23:435][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.22-13.52.23:435][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_elbow_right
+[2022.02.22-13.52.23:435][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.22-13.52.23:435][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_knee_left
+[2022.02.22-13.52.23:435][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.22-13.52.23:435][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_knee_right
+[2022.02.22-13.52.23:435][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.22-13.52.23:435][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_waist
+[2022.02.22-13.52.23:435][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.22-13.52.23:435][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_foot_left
+[2022.02.22-13.52.23:435][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.22-13.52.23:435][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_foot_right
+[2022.02.22-13.52.23:435][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.22-13.52.23:436][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_keyboard
+[2022.02.22-13.52.23:436][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.22-13.52.23:436][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_handed_pose_left
+[2022.02.22-13.52.23:436][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.22-13.52.23:436][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_handed_pose_right
+[2022.02.22-13.52.23:436][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.22-13.52.23:436][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_handed_back_left
+[2022.02.22-13.52.23:436][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.22-13.52.23:436][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_handed_back_right
+[2022.02.22-13.52.23:436][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.22-13.52.23:436][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_handed_front_left
+[2022.02.22-13.52.23:436][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.22-13.52.23:436][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_handed_front_right
+[2022.02.22-13.52.23:436][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.22-13.52.23:436][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_handed_frontr_left
+[2022.02.22-13.52.23:436][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.22-13.52.23:436][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_handed_frontr_right
+[2022.02.22-13.52.23:436][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.22-13.52.23:436][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_handed_grip_left
+[2022.02.22-13.52.23:436][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.22-13.52.23:436][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_handed_grip_right
+[2022.02.22-13.52.23:437][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.22-13.52.23:437][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/skeletonleft
+[2022.02.22-13.52.23:437][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.22-13.52.23:437][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/skeletonright
+[2022.02.22-13.52.23:437][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.22-13.52.23:437][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/out/vibrateleft
+[2022.02.22-13.52.23:437][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.22-13.52.23:437][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/out/vibrateright
+[2022.02.22-13.52.23:437][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.22-13.52.23:437][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/open_console
+[2022.02.22-13.52.23:437][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.22-13.52.23:437][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/TeleportRight
+[2022.02.22-13.52.23:437][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.22-13.52.23:437][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/TeleportRight
+[2022.02.22-13.52.23:437][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.22-13.52.23:437][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/TeleportRight
+[2022.02.22-13.52.23:437][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.22-13.52.23:437][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/TeleportRight
+[2022.02.22-13.52.23:437][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.22-13.52.23:437][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/TeleportRight
+[2022.02.22-13.52.23:437][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.22-13.52.23:437][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/TeleportRight
+[2022.02.22-13.52.23:437][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.22-13.52.23:437][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/TeleportRight
+[2022.02.22-13.52.23:437][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.22-13.52.23:437][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/TeleportLeft
+[2022.02.22-13.52.23:437][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.22-13.52.23:437][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/TeleportLeft
+[2022.02.22-13.52.23:437][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.22-13.52.23:437][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/TeleportLeft
+[2022.02.22-13.52.23:437][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.22-13.52.23:437][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/TeleportLeft
+[2022.02.22-13.52.23:437][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.22-13.52.23:437][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/TeleportLeft
+[2022.02.22-13.52.23:437][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.22-13.52.23:437][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/TeleportLeft
+[2022.02.22-13.52.23:437][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.22-13.52.23:437][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/TeleportLeft
+[2022.02.22-13.52.23:437][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.22-13.52.23:437][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/GrabLeft
+[2022.02.22-13.52.23:437][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.22-13.52.23:437][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/GrabLeft
+[2022.02.22-13.52.23:437][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.22-13.52.23:437][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/GrabLeft
+[2022.02.22-13.52.23:437][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.22-13.52.23:437][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/GrabRight
+[2022.02.22-13.52.23:437][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.22-13.52.23:437][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/GrabRight
+[2022.02.22-13.52.23:437][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.22-13.52.23:437][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/GrabRight
+[2022.02.22-13.52.23:437][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.22-13.52.23:438][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/TeleportDirectionUp axis
+[2022.02.22-13.52.23:438][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.22-13.52.23:438][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/TeleportDirectionRight axis
+[2022.02.22-13.52.23:438][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.22-13.52.23:438][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/MotionControllerThumbLeft_Y axis
+[2022.02.22-13.52.23:438][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.22-13.52.23:438][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/MotionControllerThumbLeft_Y axis
+[2022.02.22-13.52.23:438][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.22-13.52.23:438][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/MotionControllerThumbLeft_Y axis
+[2022.02.22-13.52.23:438][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.22-13.52.23:438][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/MotionControllerThumbLeft_X,MotionControllerThumbLeft_Y X Y_axis2d
+[2022.02.22-13.52.23:438][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.22-13.52.23:438][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/MotionControllerThumbLeft_X,MotionControllerThumbLeft_Y X Y_axis2d
+[2022.02.22-13.52.23:438][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.22-13.52.23:438][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/MotionControllerThumbLeft_X,MotionControllerThumbLeft_Y X Y_axis2d
+[2022.02.22-13.52.23:438][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.22-13.52.23:438][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/MotionControllerThumbLeft_X,MotionControllerThumbLeft_Y X Y_axis2d
+[2022.02.22-13.52.23:438][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.22-13.52.23:438][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/MotionControllerThumbLeft_X axis
+[2022.02.22-13.52.23:438][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.22-13.52.23:438][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/MotionControllerThumbLeft_X axis
+[2022.02.22-13.52.23:438][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.22-13.52.23:438][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/MotionControllerThumbLeft_X axis
+[2022.02.22-13.52.23:438][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.22-13.52.23:438][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/MotionControllerThumbRight_Y axis
+[2022.02.22-13.52.23:438][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.22-13.52.23:438][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/MotionControllerThumbRight_Y axis
+[2022.02.22-13.52.23:438][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.22-13.52.23:438][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/MotionControllerThumbRight_Y axis
+[2022.02.22-13.52.23:438][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.22-13.52.23:438][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/MotionControllerThumbRight_X,MotionControllerThumbRight_Y X Y_axis2d
+[2022.02.22-13.52.23:438][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.22-13.52.23:438][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/MotionControllerThumbRight_X,MotionControllerThumbRight_Y X Y_axis2d
+[2022.02.22-13.52.23:438][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.22-13.52.23:438][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/MotionControllerThumbRight_X,MotionControllerThumbRight_Y X Y_axis2d
+[2022.02.22-13.52.23:438][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.22-13.52.23:438][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/MotionControllerThumbRight_X,MotionControllerThumbRight_Y X Y_axis2d
+[2022.02.22-13.52.23:438][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.22-13.52.23:438][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/MotionControllerThumbRight_X axis
+[2022.02.22-13.52.23:438][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.22-13.52.23:438][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/MotionControllerThumbRight_X axis
+[2022.02.22-13.52.23:438][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.22-13.52.23:438][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/MotionControllerThumbRight_X axis
+[2022.02.22-13.52.23:438][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.22-13.52.23:439][  0]LogSteamVRInputDevice: Display: Action Manifest Path: ../../../../../../Users/Leeon/Documents/Unreal Projects/GestureRecVR_V4/Config/SteamVRBindings/steamvr_manifest.json
+[2022.02.22-13.52.23:439][  0]LogSteamVRInputDevice: Display: Controller Bindings Path: ../../../../../../Users/Leeon/Documents/Unreal Projects/GestureRecVR_V4/Config/SteamVRBindings
+[2022.02.22-13.52.23:442][  0]LogSteamVRInputDevice: Searching for Controller Bindings files at: ../../../../../../Users/Leeon/Documents/Unreal Projects/GestureRecVR_V4/Config/SteamVRBindings
+[2022.02.22-13.52.23:447][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Registering Application Manifest ../../../../../../Users/Leeon/Documents/Unreal Projects/GestureRecVR_V4/Config/steamvr_ue_editor_app.json : VRApplicationError_None
+[2022.02.22-13.52.23:447][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Editor Application [16952][application.generated.ue.gesturerecvr_v4-15973114.ue4editor.exe] identified to SteamVR: VRApplicationError_None
+[2022.02.22-13.52.23:447][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Trying to load Action Manifest from: C:/Users/Leeon/Documents/Unreal Projects/GestureRecVR_V4/Config/SteamVRBindings/steamvr_manifest.json
+[2022.02.22-13.52.23:447][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Manifest Path Result: Success
+[2022.02.22-13.52.23:447][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting main action set: Success
+[2022.02.22-13.52.23:447][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/controllerleft
+[2022.02.22-13.52.23:447][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.22-13.52.23:447][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/controllerright
+[2022.02.22-13.52.23:447][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.22-13.52.23:447][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_camera
+[2022.02.22-13.52.23:447][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.22-13.52.23:447][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_chest
+[2022.02.22-13.52.23:447][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.22-13.52.23:447][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_shoulder_left
+[2022.02.22-13.52.23:447][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.22-13.52.23:447][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_shoulder_right
+[2022.02.22-13.52.23:447][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.22-13.52.23:447][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_elbow_left
+[2022.02.22-13.52.23:447][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.22-13.52.23:447][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_elbow_right
+[2022.02.22-13.52.23:447][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.22-13.52.23:447][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_knee_left
+[2022.02.22-13.52.23:447][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.22-13.52.23:447][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_knee_right
+[2022.02.22-13.52.23:447][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.22-13.52.23:447][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_waist
+[2022.02.22-13.52.23:447][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.22-13.52.23:447][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_foot_left
+[2022.02.22-13.52.23:447][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.22-13.52.23:447][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_foot_right
+[2022.02.22-13.52.23:447][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.22-13.52.23:447][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_keyboard
+[2022.02.22-13.52.23:447][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.22-13.52.23:448][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_handed_pose_left
+[2022.02.22-13.52.23:448][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.22-13.52.23:448][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_handed_pose_right
+[2022.02.22-13.52.23:448][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.22-13.52.23:448][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_handed_back_left
+[2022.02.22-13.52.23:448][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.22-13.52.23:448][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_handed_back_right
+[2022.02.22-13.52.23:448][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.22-13.52.23:448][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_handed_front_left
+[2022.02.22-13.52.23:448][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.22-13.52.23:448][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_handed_front_right
+[2022.02.22-13.52.23:448][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.22-13.52.23:448][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_handed_frontr_left
+[2022.02.22-13.52.23:448][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.22-13.52.23:448][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_handed_frontr_right
+[2022.02.22-13.52.23:448][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.22-13.52.23:448][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_handed_grip_left
+[2022.02.22-13.52.23:448][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.22-13.52.23:448][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_handed_grip_right
+[2022.02.22-13.52.23:448][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.22-13.52.23:448][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/skeletonleft
+[2022.02.22-13.52.23:448][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.22-13.52.23:448][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/skeletonright
+[2022.02.22-13.52.23:448][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.22-13.52.23:448][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/out/vibrateleft
+[2022.02.22-13.52.23:448][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.22-13.52.23:448][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/out/vibrateright
+[2022.02.22-13.52.23:448][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.22-13.52.23:448][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/open_console
+[2022.02.22-13.52.23:448][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.22-13.52.23:448][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/TeleportRight
+[2022.02.22-13.52.23:448][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.22-13.52.23:448][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/TeleportRight
+[2022.02.22-13.52.23:448][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.22-13.52.23:448][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/TeleportRight
+[2022.02.22-13.52.23:448][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.22-13.52.23:448][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/TeleportRight
+[2022.02.22-13.52.23:448][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.22-13.52.23:448][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/TeleportRight
+[2022.02.22-13.52.23:448][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.22-13.52.23:448][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/TeleportRight
+[2022.02.22-13.52.23:448][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.22-13.52.23:448][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/TeleportRight
+[2022.02.22-13.52.23:448][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.22-13.52.23:448][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/TeleportLeft
+[2022.02.22-13.52.23:448][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.22-13.52.23:448][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/TeleportLeft
+[2022.02.22-13.52.23:448][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.22-13.52.23:448][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/TeleportLeft
+[2022.02.22-13.52.23:448][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.22-13.52.23:448][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/TeleportLeft
+[2022.02.22-13.52.23:448][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.22-13.52.23:448][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/TeleportLeft
+[2022.02.22-13.52.23:448][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.22-13.52.23:448][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/TeleportLeft
+[2022.02.22-13.52.23:448][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.22-13.52.23:448][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/TeleportLeft
+[2022.02.22-13.52.23:448][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.22-13.52.23:448][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/GrabLeft
+[2022.02.22-13.52.23:448][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.22-13.52.23:448][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/GrabLeft
+[2022.02.22-13.52.23:448][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.22-13.52.23:448][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/GrabLeft
+[2022.02.22-13.52.23:448][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.22-13.52.23:448][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/GrabRight
+[2022.02.22-13.52.23:448][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.22-13.52.23:448][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/GrabRight
+[2022.02.22-13.52.23:448][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.22-13.52.23:448][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/GrabRight
+[2022.02.22-13.52.23:448][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.22-13.52.23:449][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/TeleportDirectionUp axis
+[2022.02.22-13.52.23:449][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.22-13.52.23:449][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/TeleportDirectionRight axis
+[2022.02.22-13.52.23:449][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.22-13.52.23:449][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/MotionControllerThumbLeft_Y axis
+[2022.02.22-13.52.23:449][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.22-13.52.23:449][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/MotionControllerThumbLeft_Y axis
+[2022.02.22-13.52.23:449][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.22-13.52.23:449][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/MotionControllerThumbLeft_Y axis
+[2022.02.22-13.52.23:449][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.22-13.52.23:449][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/MotionControllerThumbLeft_X,MotionControllerThumbLeft_Y X Y_axis2d
+[2022.02.22-13.52.23:449][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.22-13.52.23:449][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/MotionControllerThumbLeft_X,MotionControllerThumbLeft_Y X Y_axis2d
+[2022.02.22-13.52.23:449][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.22-13.52.23:449][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/MotionControllerThumbLeft_X,MotionControllerThumbLeft_Y X Y_axis2d
+[2022.02.22-13.52.23:449][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.22-13.52.23:449][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/MotionControllerThumbLeft_X,MotionControllerThumbLeft_Y X Y_axis2d
+[2022.02.22-13.52.23:449][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.22-13.52.23:449][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/MotionControllerThumbLeft_X axis
+[2022.02.22-13.52.23:449][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.22-13.52.23:449][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/MotionControllerThumbLeft_X axis
+[2022.02.22-13.52.23:449][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.22-13.52.23:449][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/MotionControllerThumbLeft_X axis
+[2022.02.22-13.52.23:449][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.22-13.52.23:449][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/MotionControllerThumbRight_Y axis
+[2022.02.22-13.52.23:449][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.22-13.52.23:449][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/MotionControllerThumbRight_Y axis
+[2022.02.22-13.52.23:449][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.22-13.52.23:449][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/MotionControllerThumbRight_Y axis
+[2022.02.22-13.52.23:449][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.22-13.52.23:449][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/MotionControllerThumbRight_X,MotionControllerThumbRight_Y X Y_axis2d
+[2022.02.22-13.52.23:449][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.22-13.52.23:449][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/MotionControllerThumbRight_X,MotionControllerThumbRight_Y X Y_axis2d
+[2022.02.22-13.52.23:449][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.22-13.52.23:449][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/MotionControllerThumbRight_X,MotionControllerThumbRight_Y X Y_axis2d
+[2022.02.22-13.52.23:449][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.22-13.52.23:449][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/MotionControllerThumbRight_X,MotionControllerThumbRight_Y X Y_axis2d
+[2022.02.22-13.52.23:449][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.22-13.52.23:449][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/MotionControllerThumbRight_X axis
+[2022.02.22-13.52.23:449][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.22-13.52.23:449][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/MotionControllerThumbRight_X axis
+[2022.02.22-13.52.23:449][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.22-13.52.23:449][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/MotionControllerThumbRight_X axis
+[2022.02.22-13.52.23:449][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.22-13.52.23:477][  0]LogAssetRegistry: Asset discovery search completed in 3.6978 seconds
+[2022.02.22-13.52.23:478][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000005 seconds (updated 0 objects)
+[2022.02.22-13.52.23:500][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.02.22-13.52.24:042][  2]LogSlate: Took 0.003618 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.02.22-13.53.25:443][186]LogSlate: Took 0.000124 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.02.22-13.53.25:468][186]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/VirtualRealityBP/Blueprints/BP_MotionController.BP_MotionController
+[2022.02.22-13.53.25:813][186]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0004 seconds. Added 126 classes and 0 folders.
+[2022.02.22-13.53.26:474][186]LogSlate: Took 0.000115 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.02.22-13.53.26:627][187]LogSlate: Took 0.004851 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.02.22-13.53.41:997][989]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/VirtualRealityBP/Blueprints/GestureGuidePoint.GestureGuidePoint
+[2022.02.22-13.53.45:752][280]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2022.02.22-13.53.45:752][280]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.22-13.53.45:795][280]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/VirtualRealityBP/Blueprints/GestureGuidePoint.GestureGuidePoint
+[2022.02.22-13.53.48:205][408]LogRenderer: Reallocating scene render targets to support 1232x712 Format 26 NumSamples 1 (Frame:1).
+[2022.02.22-13.57.53:137][682]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2022.02.22-13.57.53:141][682]LogMaterial: Warning: [AssetLog] C:\Users\Leeon\Documents\Unreal Projects\GestureRecVR_V4\Content\VirtualReality\Materials\MF_OccludedPixels.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.02.22-13.57.53:141][682]LogMaterial: Display: 	Only transparent or postprocess materials can read from scene depth.
+[2022.02.22-13.57.53:981][736]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/VirtualReality/Materials/GuidePointMaterial.GuidePointMaterial
+[2022.02.22-13.57.53:984][736]LogMaterial: Display: Missing cached shader map for material GuidePointMaterial, compiling. 
+[2022.02.22-13.57.54:207][736]LogMaterial: Display: Missing cached shader map for material GuidePointMaterial, compiling. 
+[2022.02.22-13.57.54:219][736]LogMaterial: Display: Missing cached shader map for material GuidePointMaterial, compiling. 
+[2022.02.22-13.57.54:230][736]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 22
+[2022.02.22-13.57.54:230][736]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 21
+[2022.02.22-13.57.54:230][736]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 20
+[2022.02.22-13.57.54:230][736]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 19
+[2022.02.22-13.57.54:230][736]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 18
+[2022.02.22-13.57.54:230][736]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 17
+[2022.02.22-13.57.54:230][736]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 16
+[2022.02.22-13.57.54:230][736]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 15
+[2022.02.22-13.57.54:230][736]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2022.02.22-13.57.54:712][751]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 18
+[2022.02.22-13.57.54:819][755]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 17
+[2022.02.22-13.57.55:104][767]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 16
+[2022.02.22-13.57.55:163][770]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 15
+[2022.02.22-13.57.55:265][775]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 14
+[2022.02.22-13.57.55:305][776]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 13
+[2022.02.22-13.57.55:464][780]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 12
+[2022.02.22-13.57.56:124][799]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 11
+[2022.02.22-13.57.56:261][804]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 10
+[2022.02.22-13.57.56:481][811]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 9
+[2022.02.22-13.57.56:618][816]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 8
+[2022.02.22-13.57.56:673][818]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 7
+[2022.02.22-13.57.56:755][821]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 6
+[2022.02.22-13.57.56:992][830]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 5
+[2022.02.22-13.57.57:170][837]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2022.02.22-13.57.57:271][841]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 3
+[2022.02.22-13.57.57:295][842]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2022.02.22-13.57.57:608][854]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 1
+[2022.02.22-13.57.58:362][889]MaterialEditorStats: Base pass shader: 447 instructions
+[2022.02.22-13.57.58:362][889]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 534 instructions
+[2022.02.22-13.57.58:362][889]MaterialEditorStats: Base pass vertex shader: 267 instructions
+[2022.02.22-13.57.58:362][889]MaterialEditorStats: Texture samplers: 4/16
+[2022.02.22-13.58.41:734][605]LogMaterial: Display: Missing cached shader map for material GuidePointMaterial, compiling. 
+[2022.02.22-13.58.41:747][605]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 22
+[2022.02.22-13.58.41:747][605]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 21
+[2022.02.22-13.58.41:747][605]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 20
+[2022.02.22-13.58.41:747][605]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 19
+[2022.02.22-13.58.41:747][605]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 18
+[2022.02.22-13.58.41:747][605]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 17
+[2022.02.22-13.58.41:747][605]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 16
+[2022.02.22-13.58.41:747][605]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 15
+[2022.02.22-13.58.41:747][605]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2022.02.22-13.58.41:753][605]LogMaterial: Display: Missing cached shader map for material GuidePointMaterial, compiling. 
+[2022.02.22-13.58.42:061][619]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 26
+[2022.02.22-13.58.42:173][623]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 25
+[2022.02.22-13.58.42:395][631]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 24
+[2022.02.22-13.58.42:494][635]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 23
+[2022.02.22-13.58.42:663][642]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 22
+[2022.02.22-13.58.42:717][644]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 21
+[2022.02.22-13.58.42:892][651]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 20
+[2022.02.22-13.58.42:918][652]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 19
+[2022.02.22-13.58.43:195][663]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 18
+[2022.02.22-13.58.43:445][673]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 17
+[2022.02.22-13.58.43:689][682]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 16
+[2022.02.22-13.58.43:794][686]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 15
+[2022.02.22-13.58.43:845][688]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 14
+[2022.02.22-13.58.43:916][691]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 13
+[2022.02.22-13.58.44:043][696]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 12
+[2022.02.22-13.58.44:043][696]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 11
+[2022.02.22-13.58.44:223][703]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 10
+[2022.02.22-13.58.44:358][708]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 9
+[2022.02.22-13.58.44:412][710]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 8
+[2022.02.22-13.58.44:821][724]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 7
+[2022.02.22-13.58.44:821][724]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 6
+[2022.02.22-13.58.45:203][738]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2022.02.22-13.58.45:261][740]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2022.02.22-13.58.45:526][750]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 3
+[2022.02.22-13.58.45:732][758]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 2
+[2022.02.22-13.58.45:922][765]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 1
+[2022.02.22-13.58.46:967][814]MaterialEditorStats: Base pass shader: 447 instructions
+[2022.02.22-13.58.46:967][814]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 534 instructions
+[2022.02.22-13.58.46:967][814]MaterialEditorStats: Base pass vertex shader: 267 instructions
+[2022.02.22-13.58.46:967][814]MaterialEditorStats: Texture samplers: 4/16
+[2022.02.22-14.01.51:532][286]LogContentBrowser: Deferred new asset file creation: GuidePointMaterial_Inst
+[2022.02.22-14.01.51:552][286]LogContentBrowser: Creating deferred item: GuidePointMaterial_Inst
+[2022.02.22-14.02.14:752][ 41]LogContentBrowser: Attempting asset rename: GuidePointMaterial_Inst -> GuidePointMaterial_Ins
+[2022.02.22-14.02.14:754][ 41]LogContentBrowser: End creating deferred item GuidePointMaterial_Inst
+[2022.02.22-14.02.21:821][825]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/VirtualReality/Materials/GuidePointMaterial_Ins.GuidePointMaterial_Ins
+[2022.02.22-14.02.21:936][825]LogRenderer: Reallocating scene render targets to support 1336x920 Format 26 NumSamples 1 (Frame:1).
+[2022.02.22-14.03.37:048][699]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2022.02.22-14.03.37:070][699]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.02.22-14.03.37:315][699]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2022.02.22-14.03.37:315][699]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2022.02.22-14.03.37:316][699]TextureStreamingBuild: Display: Compiling optional shaders took 0.251 seconds.
+[2022.02.22-14.03.37:331][699]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2022.02.22-14.03.37:346][699]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2022.02.22-14.03.37:346][699]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.22-14.03.41:855][  1]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2022.02.22-14.03.43:085][  1]LogSlate: Window 'Delete Assets' being destroyed
+[2022.02.22-14.03.43:151][  1]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2022.02.22-14.03.49:180][400]LogMaterial: Display: Missing cached shader map for material GuidePointMaterial, compiling. 
+[2022.02.22-14.03.49:195][400]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 22
+[2022.02.22-14.03.49:195][400]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 21
+[2022.02.22-14.03.49:195][400]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 20
+[2022.02.22-14.03.49:195][400]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 19
+[2022.02.22-14.03.49:195][400]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 18
+[2022.02.22-14.03.49:195][400]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 17
+[2022.02.22-14.03.49:195][400]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 16
+[2022.02.22-14.03.49:195][400]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 15
+[2022.02.22-14.03.49:199][400]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2022.02.22-14.03.49:511][411]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 18
+[2022.02.22-14.03.49:642][415]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 17
+[2022.02.22-14.03.49:883][423]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 16
+[2022.02.22-14.03.49:957][426]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 15
+[2022.02.22-14.03.49:982][427]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 14
+[2022.02.22-14.03.50:036][429]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 13
+[2022.02.22-14.03.50:150][433]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 12
+[2022.02.22-14.03.50:292][438]LogMaterial: Display: Missing cached shader map for material GuidePointMaterial, compiling. 
+[2022.02.22-14.03.50:314][438]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2022.02.22-14.03.50:865][456]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 26
+[2022.02.22-14.03.50:976][460]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 25
+[2022.02.22-14.03.51:276][471]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 24
+[2022.02.22-14.03.51:326][473]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 23
+[2022.02.22-14.03.51:379][475]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 22
+[2022.02.22-14.03.51:501][480]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 21
+[2022.02.22-14.03.51:579][483]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 20
+[2022.02.22-14.03.51:735][489]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 19
+[2022.02.22-14.03.51:788][491]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 18
+[2022.02.22-14.03.51:872][494]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 17
+[2022.02.22-14.03.51:899][495]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 16
+[2022.02.22-14.03.51:976][498]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 15
+[2022.02.22-14.03.52:191][506]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 14
+[2022.02.22-14.03.52:272][509]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 13
+[2022.02.22-14.03.52:352][512]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 12
+[2022.02.22-14.03.52:976][536]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 11
+[2022.02.22-14.03.53:077][540]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 10
+[2022.02.22-14.03.53:203][545]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 9
+[2022.02.22-14.03.53:228][546]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 8
+[2022.02.22-14.03.53:610][560]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 7
+[2022.02.22-14.03.53:766][566]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 6
+[2022.02.22-14.03.54:076][576]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2022.02.22-14.03.54:116][577]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 4
+[2022.02.22-14.03.54:116][577]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 3
+[2022.02.22-14.03.54:332][583]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 2
+[2022.02.22-14.03.54:619][590]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 1
+[2022.02.22-14.03.55:840][619]MaterialEditorStats: Base pass shader: 447 instructions
+[2022.02.22-14.03.55:840][619]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 534 instructions
+[2022.02.22-14.03.55:840][619]MaterialEditorStats: Base pass vertex shader: 267 instructions
+[2022.02.22-14.03.55:840][619]MaterialEditorStats: Texture samplers: 4/16
+[2022.02.22-14.04.07:514][874]LogMaterial: Display: Missing cached shader map for material GuidePointMaterial, compiling. 
+[2022.02.22-14.04.07:526][874]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 22
+[2022.02.22-14.04.07:526][874]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 21
+[2022.02.22-14.04.07:526][874]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 20
+[2022.02.22-14.04.07:526][874]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 19
+[2022.02.22-14.04.07:526][874]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 18
+[2022.02.22-14.04.07:526][874]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 17
+[2022.02.22-14.04.07:526][874]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 16
+[2022.02.22-14.04.07:526][874]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 15
+[2022.02.22-14.04.07:528][874]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2022.02.22-14.04.07:532][874]LogSlate: Window 'Color Picker' being destroyed
+[2022.02.22-14.04.07:716][882]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 18
+[2022.02.22-14.04.07:882][888]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 17
+[2022.02.22-14.04.08:036][894]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 16
+[2022.02.22-14.04.08:187][900]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 15
+[2022.02.22-14.04.08:257][903]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 14
+[2022.02.22-14.04.08:333][906]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 13
+[2022.02.22-14.04.08:409][909]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 12
+[2022.02.22-14.04.09:141][938]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 11
+[2022.02.22-14.04.09:257][943]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 10
+[2022.02.22-14.04.09:485][952]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 9
+[2022.02.22-14.04.09:633][957]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 8
+[2022.02.22-14.04.09:760][962]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 7
+[2022.02.22-14.04.09:784][963]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 6
+[2022.02.22-14.04.10:047][973]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 5
+[2022.02.22-14.04.10:175][978]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2022.02.22-14.04.10:223][980]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 3
+[2022.02.22-14.04.10:295][983]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2022.02.22-14.04.10:594][995]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 1
+[2022.02.22-14.04.11:421][ 34]MaterialEditorStats: Base pass shader: 447 instructions
+[2022.02.22-14.04.11:421][ 34]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 534 instructions
+[2022.02.22-14.04.11:421][ 34]MaterialEditorStats: Base pass vertex shader: 267 instructions
+[2022.02.22-14.04.11:421][ 34]MaterialEditorStats: Texture samplers: 4/16
+[2022.02.22-14.04.17:979][153]LogMaterialEditor: Saving and Compiling material GuidePointMaterial
+[2022.02.22-14.04.18:436][153]LogMaterial: Display: Missing cached shader map for material GuidePointMaterial, compiling. 
+[2022.02.22-14.04.18:469][153]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 22
+[2022.02.22-14.04.18:469][153]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 21
+[2022.02.22-14.04.18:469][153]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 20
+[2022.02.22-14.04.18:469][153]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 19
+[2022.02.22-14.04.18:469][153]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 18
+[2022.02.22-14.04.18:469][153]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 17
+[2022.02.22-14.04.18:469][153]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 16
+[2022.02.22-14.04.18:469][153]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 15
+[2022.02.22-14.04.18:493][153]LogMaterial: Display: Missing cached shader map for material GuidePointMaterial, compiling. 
+[2022.02.22-14.04.18:544][153]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2022.02.22-14.04.18:550][153]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.02.22-14.04.19:090][153]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 44
+[2022.02.22-14.04.19:090][153]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 43
+[2022.02.22-14.04.19:090][153]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 42
+[2022.02.22-14.04.19:090][153]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 41
+[2022.02.22-14.04.19:626][153]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 40
+[2022.02.22-14.04.19:626][153]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 39
+[2022.02.22-14.04.19:626][153]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 38
+[2022.02.22-14.04.20:162][153]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 37
+[2022.02.22-14.04.20:162][153]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 36
+[2022.02.22-14.04.20:698][153]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 35
+[2022.02.22-14.04.20:698][153]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 34
+[2022.02.22-14.04.20:698][153]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 33
+[2022.02.22-14.04.20:698][153]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 32
+[2022.02.22-14.04.21:235][153]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 31
+[2022.02.22-14.04.21:235][153]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 30
+[2022.02.22-14.04.21:235][153]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 29
+[2022.02.22-14.04.21:235][153]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 28
+[2022.02.22-14.04.21:235][153]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 24
+[2022.02.22-14.04.21:394][153]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 20
+[2022.02.22-14.04.21:403][153]TextureStreamingBuild: Display: Compiling optional shaders took 2.858 seconds.
+[2022.02.22-14.04.21:478][153]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2022.02.22-14.04.22:065][153]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 17
+[2022.02.22-14.04.22:065][153]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 14
+[2022.02.22-14.04.22:601][153]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 12
+[2022.02.22-14.04.22:601][153]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 10
+[2022.02.22-14.04.22:601][153]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 8
+[2022.02.22-14.04.23:137][153]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 6
+[2022.02.22-14.04.23:673][153]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 5
+[2022.02.22-14.04.24:209][153]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2022.02.22-14.04.24:745][153]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 3
+[2022.02.22-14.04.24:745][153]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 2
+[2022.02.22-14.04.25:281][153]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 1
+[2022.02.22-14.04.26:244][153]LogSavePackage: Moving '../../../../../../Users/Leeon/Documents/Unreal Projects/GestureRecVR_V4/Saved/GuidePointMaterialC4216E314FBDA8F09A6E268DE7E2FB5D.tmp' to '../../../../../../Users/Leeon/Documents/Unreal Projects/GestureRecVR_V4/Content/VirtualReality/Materials/GuidePointMaterial.uasset'
+[2022.02.22-14.04.26:269][153]AssetCheck: New page: Asset Save: GuidePointMaterial
+[2022.02.22-14.04.26:269][153]LogContentValidation: Display: Validating Material /Game/VirtualReality/Materials/GuidePointMaterial.GuidePointMaterial
+[2022.02.22-14.32.31:403][268]LogMaterial: Display: Missing cached shader map for material GuidePointMaterial_2, compiling. 
+[2022.02.22-14.32.31:441][269]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 28
+[2022.02.22-14.32.31:441][269]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 24
+[2022.02.22-14.32.31:441][269]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 20
+[2022.02.22-14.32.31:441][269]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 16
+[2022.02.22-14.32.31:441][269]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 12
+[2022.02.22-14.32.31:442][269]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 8
+[2022.02.22-14.32.31:442][269]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 4
+[2022.02.22-14.32.47:907][865]LogContentBrowser: Attempting asset rename: GuidePointMaterial_2 -> GuidePointHighlightMaterial
+[2022.02.22-14.32.47:958][865]LogSavePackage: Moving '../../../../../../Users/Leeon/Documents/Unreal Projects/GestureRecVR_V4/Saved/GuidePointHighlightMaterialE60D6B3B44CECBDE339CC4B61CB3D3E7.tmp' to '../../../../../../Users/Leeon/Documents/Unreal Projects/GestureRecVR_V4/Content/VirtualReality/Materials/GuidePointHighlightMaterial.uasset'
+[2022.02.22-14.32.48:024][865]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2022.02.22-14.32.48:045][865]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2022.02.22-14.32.48:057][865]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2022.02.22-14.32.48:102][865]AssetCheck: New page: Asset Save: GuidePointHighlightMaterial
+[2022.02.22-14.32.48:102][865]LogContentValidation: Display: Validating Material /Game/VirtualReality/Materials/GuidePointHighlightMaterial.GuidePointHighlightMaterial
+[2022.02.22-14.32.50:404][117]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/VirtualReality/Materials/GuidePointHighlightMaterial.GuidePointHighlightMaterial
+[2022.02.22-14.32.50:405][117]LogMaterial: Display: Missing cached shader map for material GuidePointHighlightMaterial, compiling. 
+[2022.02.22-14.32.50:466][117]LogMaterial: Display: Missing cached shader map for material GuidePointHighlightMaterial, compiling. 
+[2022.02.22-14.32.50:475][117]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 22
+[2022.02.22-14.32.50:475][117]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 21
+[2022.02.22-14.32.50:475][117]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 20
+[2022.02.22-14.32.50:475][117]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 19
+[2022.02.22-14.32.50:475][117]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 18
+[2022.02.22-14.32.50:475][117]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 17
+[2022.02.22-14.32.50:475][117]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 16
+[2022.02.22-14.32.50:475][117]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 15
+[2022.02.22-14.32.50:476][117]LogMaterial: Display: Missing cached shader map for material GuidePointHighlightMaterial, compiling. 
+[2022.02.22-14.32.50:493][117]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2022.02.22-14.32.50:667][121]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 26
+[2022.02.22-14.32.50:778][125]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 25
+[2022.02.22-14.32.51:000][133]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 24
+[2022.02.22-14.32.51:257][142]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 23
+[2022.02.22-14.32.51:330][145]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 22
+[2022.02.22-14.32.51:624][155]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 21
+[2022.02.22-14.32.51:868][164]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 20
+[2022.02.22-14.32.52:048][171]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 19
+[2022.02.22-14.32.52:425][183]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 18
+[2022.02.22-14.32.52:606][189]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 17
+[2022.02.22-14.32.52:776][195]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 16
+[2022.02.22-14.32.52:843][197]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 15
+[2022.02.22-14.32.52:871][198]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 14
+[2022.02.22-14.32.52:906][199]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 13
+[2022.02.22-14.32.52:959][201]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 12
+[2022.02.22-14.32.53:052][204]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 11
+[2022.02.22-14.32.53:281][210]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 10
+[2022.02.22-14.32.53:724][226]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 9
+[2022.02.22-14.32.53:755][227]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 8
+[2022.02.22-14.32.53:780][228]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2022.02.22-14.32.53:935][234]LogMaterial: Display: Missing cached shader map for material GuidePointHighlightMaterial, compiling. 
+[2022.02.22-14.32.53:957][234]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2022.02.22-14.32.54:213][242]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 26
+[2022.02.22-14.32.54:213][242]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 25
+[2022.02.22-14.32.54:758][261]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 24
+[2022.02.22-14.32.54:887][266]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 23
+[2022.02.22-14.32.54:939][268]LogMaterial: Display: Missing cached shader map for material GuidePointHighlightMaterial, compiling. 
+[2022.02.22-14.32.54:963][268]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2022.02.22-14.32.55:092][272]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 26
+[2022.02.22-14.32.55:092][272]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 25
+[2022.02.22-14.32.55:254][278]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 24
+[2022.02.22-14.32.55:323][280]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 23
+[2022.02.22-14.32.55:557][288]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 22
+[2022.02.22-14.32.55:827][298]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 21
+[2022.02.22-14.32.55:876][300]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 20
+[2022.02.22-14.32.55:900][301]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 19
+[2022.02.22-14.32.56:018][306]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 18
+[2022.02.22-14.32.56:043][307]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 17
+[2022.02.22-14.32.56:232][314]LogMaterial: Display: Missing cached shader map for material GuidePointHighlightMaterial, compiling. 
+[2022.02.22-14.32.56:248][314]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2022.02.22-14.32.56:316][316]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 26
+[2022.02.22-14.32.56:351][317]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 25
+[2022.02.22-14.32.56:518][323]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 24
+[2022.02.22-14.32.56:723][330]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 23
+[2022.02.22-14.32.56:825][334]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 22
+[2022.02.22-14.32.57:118][345]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 21
+[2022.02.22-14.32.57:144][346]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 20
+[2022.02.22-14.32.57:144][346]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 19
+[2022.02.22-14.32.57:292][352]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 18
+[2022.02.22-14.32.57:342][354]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 17
+[2022.02.22-14.32.57:661][365]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 16
+[2022.02.22-14.32.57:796][370]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 15
+[2022.02.22-14.32.57:822][371]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 14
+[2022.02.22-14.32.57:985][377]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 13
+[2022.02.22-14.32.57:985][377]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 12
+[2022.02.22-14.32.58:390][392]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 11
+[2022.02.22-14.32.58:593][400]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 10
+[2022.02.22-14.32.58:779][407]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 9
+[2022.02.22-14.32.58:805][408]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 8
+[2022.02.22-14.32.59:087][418]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 7
+[2022.02.22-14.32.59:224][423]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 6
+[2022.02.22-14.32.59:299][426]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 5
+[2022.02.22-14.32.59:579][436]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 4
+[2022.02.22-14.32.59:731][442]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 3
+[2022.02.22-14.32.59:757][443]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 2
+[2022.02.22-14.32.59:954][450]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2022.02.22-14.33.00:712][482]MaterialEditorStats: Base pass shader: 447 instructions
+[2022.02.22-14.33.00:713][482]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 534 instructions
+[2022.02.22-14.33.00:713][482]MaterialEditorStats: Base pass vertex shader: 267 instructions
+[2022.02.22-14.33.00:713][482]MaterialEditorStats: Texture samplers: 4/16
+[2022.02.22-14.33.10:483][117]LogMaterial: Display: Missing cached shader map for material GuidePointHighlightMaterial, compiling. 
+[2022.02.22-14.33.10:497][117]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2022.02.22-14.33.10:500][117]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 22
+[2022.02.22-14.33.10:500][117]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 21
+[2022.02.22-14.33.10:500][117]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 20
+[2022.02.22-14.33.10:500][117]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 19
+[2022.02.22-14.33.10:500][117]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 18
+[2022.02.22-14.33.10:500][117]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 17
+[2022.02.22-14.33.10:500][117]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 16
+[2022.02.22-14.33.10:500][117]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 15
+[2022.02.22-14.33.10:677][124]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 18
+[2022.02.22-14.33.10:813][128]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 17
+[2022.02.22-14.33.11:015][135]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 16
+[2022.02.22-14.33.11:097][138]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 15
+[2022.02.22-14.33.11:176][141]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 14
+[2022.02.22-14.33.11:284][145]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 13
+[2022.02.22-14.33.11:344][147]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 12
+[2022.02.22-14.33.11:511][153]LogMaterial: Display: Missing cached shader map for material GuidePointHighlightMaterial, compiling. 
+[2022.02.22-14.33.11:532][153]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2022.02.22-14.33.12:099][173]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 26
+[2022.02.22-14.33.12:150][175]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 25
+[2022.02.22-14.33.12:335][181]LogMaterial: Display: Missing cached shader map for material GuidePointHighlightMaterial, compiling. 
+[2022.02.22-14.33.12:355][181]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2022.02.22-14.33.12:360][181]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 22
+[2022.02.22-14.33.12:500][184]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 25
+[2022.02.22-14.33.12:634][189]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 24
+[2022.02.22-14.33.12:634][189]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 23
+[2022.02.22-14.33.12:948][198]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 22
+[2022.02.22-14.33.12:974][199]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 21
+[2022.02.22-14.33.13:028][201]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 20
+[2022.02.22-14.33.13:064][202]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 19
+[2022.02.22-14.33.13:177][206]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 18
+[2022.02.22-14.33.13:332][211]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 17
+[2022.02.22-14.33.13:424][214]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 16
+[2022.02.22-14.33.13:479][216]LogMaterial: Display: Missing cached shader map for material GuidePointHighlightMaterial, compiling. 
+[2022.02.22-14.33.13:497][216]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2022.02.22-14.33.13:627][219]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 26
+[2022.02.22-14.33.13:669][220]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 25
+[2022.02.22-14.33.14:123][236]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 24
+[2022.02.22-14.33.14:175][238]LogMaterial: Display: Missing cached shader map for material GuidePointHighlightMaterial, compiling. 
+[2022.02.22-14.33.14:196][238]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2022.02.22-14.33.14:205][238]LogSlate: Window 'Color Picker' being destroyed
+[2022.02.22-14.33.14:450][247]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 26
+[2022.02.22-14.33.14:450][247]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 25
+[2022.02.22-14.33.14:475][248]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 24
+[2022.02.22-14.33.14:522][250]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 23
+[2022.02.22-14.33.14:778][260]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 22
+[2022.02.22-14.33.14:994][268]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 21
+[2022.02.22-14.33.15:306][280]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 20
+[2022.02.22-14.33.15:306][280]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 19
+[2022.02.22-14.33.15:306][280]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 18
+[2022.02.22-14.33.15:460][286]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 17
+[2022.02.22-14.33.15:489][287]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 16
+[2022.02.22-14.33.15:779][298]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 15
+[2022.02.22-14.33.15:805][299]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 14
+[2022.02.22-14.33.15:855][301]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 13
+[2022.02.22-14.33.15:980][306]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 12
+[2022.02.22-14.33.16:499][326]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 11
+[2022.02.22-14.33.16:642][332]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 10
+[2022.02.22-14.33.16:689][334]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 9
+[2022.02.22-14.33.16:791][338]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 8
+[2022.02.22-14.33.17:027][346]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 7
+[2022.02.22-14.33.17:185][352]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 6
+[2022.02.22-14.33.17:371][359]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 5
+[2022.02.22-14.33.17:492][364]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 4
+[2022.02.22-14.33.17:693][371]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 3
+[2022.02.22-14.33.17:745][373]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 2
+[2022.02.22-14.33.17:892][379]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 1
+[2022.02.22-14.33.18:663][411]MaterialEditorStats: Base pass shader: 447 instructions
+[2022.02.22-14.33.18:663][411]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 534 instructions
+[2022.02.22-14.33.18:663][411]MaterialEditorStats: Base pass vertex shader: 267 instructions
+[2022.02.22-14.33.18:663][411]MaterialEditorStats: Texture samplers: 4/16
+[2022.02.22-14.33.20:595][531]LogMaterialEditor: Saving and Compiling material GuidePointHighlightMaterial
+[2022.02.22-14.33.21:047][531]LogMaterial: Display: Missing cached shader map for material GuidePointHighlightMaterial, compiling. 
+[2022.02.22-14.33.21:087][531]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 22
+[2022.02.22-14.33.21:087][531]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 21
+[2022.02.22-14.33.21:087][531]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 20
+[2022.02.22-14.33.21:087][531]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 19
+[2022.02.22-14.33.21:087][531]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 18
+[2022.02.22-14.33.21:087][531]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 17
+[2022.02.22-14.33.21:087][531]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 16
+[2022.02.22-14.33.21:087][531]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 15
+[2022.02.22-14.33.21:092][531]LogMaterial: Display: Missing cached shader map for material GuidePointHighlightMaterial, compiling. 
+[2022.02.22-14.33.21:141][531]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2022.02.22-14.33.21:148][531]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.02.22-14.33.21:688][531]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 44
+[2022.02.22-14.33.21:688][531]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 43
+[2022.02.22-14.33.21:688][531]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 42
+[2022.02.22-14.33.21:688][531]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 41
+[2022.02.22-14.33.22:223][531]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 40
+[2022.02.22-14.33.22:223][531]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 39
+[2022.02.22-14.33.22:223][531]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 38
+[2022.02.22-14.33.22:759][531]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 37
+[2022.02.22-14.33.22:759][531]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 36
+[2022.02.22-14.33.22:759][531]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 35
+[2022.02.22-14.33.23:295][531]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 34
+[2022.02.22-14.33.23:295][531]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 33
+[2022.02.22-14.33.23:295][531]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 32
+[2022.02.22-14.33.23:295][531]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 31
+[2022.02.22-14.33.23:295][531]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 30
+[2022.02.22-14.33.23:295][531]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 29
+[2022.02.22-14.33.23:590][531]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 28
+[2022.02.22-14.33.23:590][531]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 24
+[2022.02.22-14.33.23:590][531]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 20
+[2022.02.22-14.33.23:597][531]TextureStreamingBuild: Display: Compiling optional shaders took 2.454 seconds.
+[2022.02.22-14.33.23:623][531]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2022.02.22-14.33.24:200][531]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 17
+[2022.02.22-14.33.24:200][531]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 14
+[2022.02.22-14.33.24:736][531]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 12
+[2022.02.22-14.33.24:736][531]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 10
+[2022.02.22-14.33.24:736][531]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 8
+[2022.02.22-14.33.25:272][531]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 6
+[2022.02.22-14.33.25:808][531]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 5
+[2022.02.22-14.33.26:344][531]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2022.02.22-14.33.26:344][531]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 3
+[2022.02.22-14.33.26:344][531]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 2
+[2022.02.22-14.33.26:880][531]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 1
+[2022.02.22-14.33.27:669][531]LogSavePackage: Moving '../../../../../../Users/Leeon/Documents/Unreal Projects/GestureRecVR_V4/Saved/GuidePointHighlightMaterialD0C06FAE45250AB0486B84B069416EE9.tmp' to '../../../../../../Users/Leeon/Documents/Unreal Projects/GestureRecVR_V4/Content/VirtualReality/Materials/GuidePointHighlightMaterial.uasset'
+[2022.02.22-14.33.27:694][531]AssetCheck: New page: Asset Save: GuidePointHighlightMaterial
+[2022.02.22-14.33.27:694][531]LogContentValidation: Display: Validating Material /Game/VirtualReality/Materials/GuidePointHighlightMaterial.GuidePointHighlightMaterial
+[2022.02.22-14.33.40:715][491]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2022.02.22-14.33.45:071][919]LogContentBrowser: Attempting asset rename: GestureGuidePoint_2 -> GestureGuidePoint_2
+[2022.02.22-14.33.51:935][687]LogContentBrowser: Attempting asset rename: GestureGuidePoint_2 -> GestureGuidePointHighlight
+[2022.02.22-14.33.51:949][687]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/GestureGuidePointHighlight.SKEL_GestureGuidePointHighlight_C' ref from Metadata '/Game/VirtualRealityBP/Blueprints/GestureGuidePoint_2.PackageMetaData'
+[2022.02.22-14.33.51:949][687]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/GestureGuidePointHighlight.GestureGuidePointHighlight_C' ref from Metadata '/Game/VirtualRealityBP/Blueprints/GestureGuidePoint_2.PackageMetaData'
+[2022.02.22-14.33.51:949][687]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/GestureGuidePointHighlight.SKEL_GestureGuidePointHighlight_C:ReceiveBeginPlay' ref from Metadata '/Game/VirtualRealityBP/Blueprints/GestureGuidePoint_2.PackageMetaData'
+[2022.02.22-14.33.51:949][687]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/GestureGuidePointHighlight.SKEL_GestureGuidePointHighlight_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/VirtualRealityBP/Blueprints/GestureGuidePoint_2.PackageMetaData'
+[2022.02.22-14.33.51:949][687]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/GestureGuidePointHighlight.SKEL_GestureGuidePointHighlight_C:ReceiveTick' ref from Metadata '/Game/VirtualRealityBP/Blueprints/GestureGuidePoint_2.PackageMetaData'
+[2022.02.22-14.33.51:949][687]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/GestureGuidePointHighlight.SKEL_GestureGuidePointHighlight_C:UserConstructionScript' ref from Metadata '/Game/VirtualRealityBP/Blueprints/GestureGuidePoint_2.PackageMetaData'
+[2022.02.22-14.33.51:991][687]LogSavePackage: Moving '../../../../../../Users/Leeon/Documents/Unreal Projects/GestureRecVR_V4/Saved/GestureGuidePointHighlight79AFBA7C4FB27D6CB6D38790A7ACD868.tmp' to '../../../../../../Users/Leeon/Documents/Unreal Projects/GestureRecVR_V4/Content/VirtualRealityBP/Blueprints/GestureGuidePointHighlight.uasset'
+[2022.02.22-14.33.52:059][687]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2022.02.22-14.33.52:081][687]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2022.02.22-14.33.52:093][687]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2022.02.22-14.33.52:124][687]AssetCheck: New page: Asset Save: GestureGuidePointHighlight
+[2022.02.22-14.33.52:124][687]LogContentValidation: Display: Validating Blueprint /Game/VirtualRealityBP/Blueprints/GestureGuidePointHighlight.GestureGuidePointHighlight
+[2022.02.22-14.33.54:143][892]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/VirtualRealityBP/Blueprints/GestureGuidePointHighlight.GestureGuidePointHighlight
+[2022.02.22-14.33.59:129][189]LogSavePackage: Moving '../../../../../../Users/Leeon/Documents/Unreal Projects/GestureRecVR_V4/Saved/GestureGuidePointHighlight68A1FD704EAA0EC8A28D6FB042B82DA8.tmp' to '../../../../../../Users/Leeon/Documents/Unreal Projects/GestureRecVR_V4/Content/VirtualRealityBP/Blueprints/GestureGuidePointHighlight.uasset'
+[2022.02.22-14.33.59:142][189]AssetCheck: New page: Asset Save: GestureGuidePointHighlight
+[2022.02.22-14.33.59:142][189]LogContentValidation: Display: Validating Blueprint /Game/VirtualRealityBP/Blueprints/GestureGuidePointHighlight.GestureGuidePointHighlight
+[2022.02.22-14.33.59:623][224]BlueprintLog: New page: Compile GestureGuidePointHighlight
+[2022.02.22-14.33.59:698][224]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2022.02.22-14.34.00:973][316]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2022.02.22-14.34.00:973][316]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.22-14.34.02:131][384]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2022.02.22-14.34.02:131][384]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.22-14.34.02:891][431]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2022.02.22-14.34.02:891][431]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.22-14.34.04:624][543]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.02.22-14.34.04:624][543]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2022.02.22-14.34.04:624][543]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.22-14.41.19:861][418]BlueprintLog: New page: Compile BP_MotionController
+[2022.02.22-14.41.19:959][418]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2022.02.22-14.41.20:680][444]LogSavePackage: Moving '../../../../../../Users/Leeon/Documents/Unreal Projects/GestureRecVR_V4/Saved/BP_MotionControllerBDA1A34B48A62089A7D3989027813139.tmp' to '../../../../../../Users/Leeon/Documents/Unreal Projects/GestureRecVR_V4/Content/VirtualRealityBP/Blueprints/BP_MotionController.uasset'
+[2022.02.22-14.41.20:701][444]AssetCheck: New page: Asset Save: BP_MotionController
+[2022.02.22-14.41.20:701][444]LogContentValidation: Display: Validating Blueprint /Game/VirtualRealityBP/Blueprints/BP_MotionController.BP_MotionController
+[2022.02.22-14.41.21:429][482]LogTemp: Repeating last play command: VR Preview
+[2022.02.22-14.41.21:436][482]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.02.22-14.41.21:439][482]PIE: New page: PIE session: MotionControllerMap (22 Feb 2022, 14:41:21)
+[2022.02.22-14.41.21:441][482]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2022.02.22-14.41.21:442][482]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2022.02.22-14.41.21:443][482]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap
+[2022.02.22-14.41.21:449][482]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006317s)
+[2022.02.22-14.41.21:451][482]LogAIModule: Creating AISystem for world MotionControllerMap
+[2022.02.22-14.41.21:452][482]LogPlayLevel: PIE: World Init took: (0.002225s)
+[2022.02.22-14.41.21:452][482]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap (0.008648s)
+[2022.02.22-14.41.21:471][482]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2022.02.22-14.41.21:474][482]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2022.02.22-14.41.21:474][482]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.02.22-14.41.21:474][482]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.02.22-14.41.21:474][482]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.02.22-14.41.21:474][482]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.02.22-14.41.21:474][482]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.02.22-14.41.21:474][482]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.02.22-14.41.21:474][482]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.02.22-14.41.21:474][482]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.02.22-14.41.21:474][482]LogAudio: Display: Using built-in audio occlusion.
+[2022.02.22-14.41.21:474][482]LogAudioMixer: Display: Initializing audio mixer.
+[2022.02.22-14.41.21:476][482]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.22-14.41.21:476][482]LogAudioMixer: Display: 1: FrontRight
+[2022.02.22-14.41.21:484][482]LogAudioMixer: Display: Using Audio Device HyperX Headset (High Definition Audio Device)
+[2022.02.22-14.41.21:484][482]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.02.22-14.41.21:484][482]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.02.22-14.41.21:484][482]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.02.22-14.41.21:484][482]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.02.22-14.41.21:484][482]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.02.22-14.41.21:485][482]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.02.22-14.41.21:495][482]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.02.22-14.41.21:495][482]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.02.22-14.41.21:495][482]LogInit: FAudioDevice initialized.
+[2022.02.22-14.41.21:495][482]LogAudio: Display: Audio Device (ID: 2) registered with world 'MotionControllerMap'.
+[2022.02.22-14.41.21:508][482]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.22-14.41.21:543][482]LogLoad: Game class is 'GameModeBase'
+[2022.02.22-14.41.21:549][482]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap up for play (max tick rate 0) at 2022.02.22-14.41.21
+[2022.02.22-14.41.21:550][482]LogWorld: Bringing up level for play took: 0.002132
+[2022.02.22-14.41.21:551][482]LogOnline: OSS: Creating online subsystem instance for: :Context_17
+[2022.02.22-14.41.21:562][482]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0006 seconds. Added 20 classes and 0 folders.
+[2022.02.22-14.41.21:566][482]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2022.02.22-14.41.21:566][482]LogOutputDevice: Warning: 
+
+Script Stack (5 frames):
+BP_MotionController_C.SetupRoomScaleOutline
+BP_MotionController_C.ExecuteUbergraph_BP_MotionController
+BP_MotionController_C.ReceiveBeginPlay
+MotionControllerPawn_C.ExecuteUbergraph_MotionControllerPawn
+MotionControllerPawn_C.ReceiveBeginPlay
+
+[2022.02.22-14.41.22:009][482]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.443 s
+[2022.02.22-14.41.22:009][482]LogOutputDevice: Error: === Handled ensure: ===
+[2022.02.22-14.41.22:009][482]LogOutputDevice: Error: 
+[2022.02.22-14.41.22:009][482]LogOutputDevice: Error: Ensure condition failed: false [File:D:/Build/++UE4/Sync/Engine/Source/Runtime/Core/Private/Math/Matrix.cpp] [Line: 8]
+[2022.02.22-14.41.22:009][482]LogOutputDevice: Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2022.02.22-14.41.22:009][482]LogOutputDevice: Error: Stack: 
+[2022.02.22-14.41.22:009][482]LogOutputDevice: Error: [Callstack] 0x00007ffd1aabb756 UE4Editor-Core.dll!UnknownFunction []
+[2022.02.22-14.41.22:010][482]LogOutputDevice: Error: [Callstack] 0x00007ffd1a3fc5fe UE4Editor-Core.dll!UnknownFunction []
+[2022.02.22-14.41.22:010][482]LogOutputDevice: Error: [Callstack] 0x00007ffcfbdfd64b UE4Editor-Engine.dll!UnknownFunction []
+[2022.02.22-14.41.22:010][482]LogOutputDevice: Error: [Callstack] 0x00007ffcfc738c6a UE4Editor-Engine.dll!UnknownFunction []
+[2022.02.22-14.41.22:010][482]LogOutputDevice: Error: [Callstack] 0x00007ffcfd3be2ce UE4Editor-Engine.dll!UnknownFunction []
+[2022.02.22-14.41.22:010][482]LogOutputDevice: Error: [Callstack] 0x00007ffd22c22604 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2022.02.22-14.41.22:010][482]LogOutputDevice: Error: [Callstack] 0x00007ffd22e98176 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2022.02.22-14.41.22:010][482]LogOutputDevice: Error: [Callstack] 0x00007ffd22eaf7b3 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2022.02.22-14.41.22:010][482]LogOutputDevice: Error: [Callstack] 0x00007ffd22eb22fd UE4Editor-CoreUObject.dll!UnknownFunction []
+[2022.02.22-14.41.22:010][482]LogOutputDevice: Error: [Callstack] 0x00007ffd22e86b6a UE4Editor-CoreUObject.dll!UnknownFunction []
+[2022.02.22-14.41.22:010][482]LogOutputDevice: Error: [Callstack] 0x00007ffd22eb1ef1 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2022.02.22-14.41.22:010][482]LogOutputDevice: Error: [Callstack] 0x00007ffd22eb22fd UE4Editor-CoreUObject.dll!UnknownFunction []
+[2022.02.22-14.41.22:010][482]LogOutputDevice: Error: [Callstack] 0x00007ffd22e86b6a UE4Editor-CoreUObject.dll!UnknownFunction []
+[2022.02.22-14.41.22:010][482]LogOutputDevice: Error: [Callstack] 0x00007ffd22eb1ef1 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2022.02.22-14.41.22:010][482]LogOutputDevice: Error: [Callstack] 0x00007ffd22eb22fd UE4Editor-CoreUObject.dll!UnknownFunction []
+[2022.02.22-14.41.22:010][482]LogOutputDevice: Error: [Callstack] 0x00007ffd22eb1704 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2022.02.22-14.41.22:010][482]LogOutputDevice: Error: [Callstack] 0x00007ffd22c22604 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2022.02.22-14.41.22:010][482]LogOutputDevice: Error: [Callstack] 0x00007ffd22eb0e63 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2022.02.22-14.41.22:010][482]LogOutputDevice: Error: [Callstack] 0x00007ffcfbe9c435 UE4Editor-Engine.dll!UnknownFunction []
+[2022.02.22-14.41.22:010][482]LogOutputDevice: Error: [Callstack] 0x00007ffcfbe6aff7 UE4Editor-Engine.dll!UnknownFunction []
+[2022.02.22-14.41.22:010][482]LogOutputDevice: Error: [Callstack] 0x00007ffcfbe7443c UE4Editor-Engine.dll!UnknownFunction []
+[2022.02.22-14.41.22:010][482]LogOutputDevice: Error: [Callstack] 0x00007ffcfbe97dc5 UE4Editor-Engine.dll!UnknownFunction []
+[2022.02.22-14.41.22:010][482]LogOutputDevice: Error: [Callstack] 0x00007ffcfbe81f2d UE4Editor-Engine.dll!UnknownFunction []
+[2022.02.22-14.41.22:010][482]LogOutputDevice: Error: [Callstack] 0x00007ffcfc5bd50f UE4Editor-Engine.dll!UnknownFunction []
+[2022.02.22-14.41.22:010][482]LogOutputDevice: Error: [Callstack] 0x00007ffcfd3562ac UE4Editor-Engine.dll!UnknownFunction []
+[2022.02.22-14.41.22:010][482]LogOutputDevice: Error: [Callstack] 0x00007ffd22edae84 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2022.02.22-14.41.22:010][482]LogOutputDevice: Error: [Callstack] 0x00007ffd22edd4ef UE4Editor-CoreUObject.dll!UnknownFunction []
+[2022.02.22-14.41.22:010][482]LogOutputDevice: Error: [Callstack] 0x00007ffd22eb22fd UE4Editor-CoreUObject.dll!UnknownFunction []
+[2022.02.22-14.41.22:010][482]LogOutputDevice: Error: [Callstack] 0x00007ffd22e86b6a UE4Editor-CoreUObject.dll!UnknownFunction []
+[2022.02.22-14.41.22:010][482]LogOutputDevice: Error: [Callstack] 0x00007ffd22eb1ef1 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2022.02.22-14.41.22:010][482]LogOutputDevice: Error: [Callstack] 0x00007ffd22eb22fd UE4Editor-CoreUObject.dll!UnknownFunction []
+[2022.02.22-14.41.22:010][482]LogOutputDevice: Error: [Callstack] 0x00007ffd22eb1704 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2022.02.22-14.41.22:010][482]LogOutputDevice: Error: [Callstack] 0x00007ffd22c22604 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2022.02.22-14.41.22:010][482]LogOutputDevice: Error: [Callstack] 0x00007ffd22eb0e63 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2022.02.22-14.41.22:010][482]LogOutputDevice: Error: [Callstack] 0x00007ffcfbe9c435 UE4Editor-Engine.dll!UnknownFunction []
+[2022.02.22-14.41.22:010][482]LogOutputDevice: Error: [Callstack] 0x00007ffcfbe6aff7 UE4Editor-Engine.dll!UnknownFunction []
+[2022.02.22-14.41.22:010][482]LogOutputDevice: Error: [Callstack] 0x00007ffcfbe7443c UE4Editor-Engine.dll!UnknownFunction []
+[2022.02.22-14.41.22:010][482]LogOutputDevice: Error: [Callstack] 0x00007ffcfd24ec42 UE4Editor-Engine.dll!UnknownFunction []
+[2022.02.22-14.41.22:010][482]LogOutputDevice: Error: [Callstack] 0x00007ffcfc5c5fa1 UE4Editor-Engine.dll!UnknownFunction []
+[2022.02.22-14.41.22:010][482]LogOutputDevice: Error: [Callstack] 0x00007ffcfd1f344e UE4Editor-Engine.dll!UnknownFunction []
+[2022.02.22-14.41.22:010][482]LogOutputDevice: Error: [Callstack] 0x00007ffcfc5e7f8d UE4Editor-Engine.dll!UnknownFunction []
+[2022.02.22-14.41.22:010][482]LogOutputDevice: Error: [Callstack] 0x00007ffcfac3a1a5 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.02.22-14.41.22:010][482]LogOutputDevice: Error: [Callstack] 0x00007ffcfac5cd6f UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.02.22-14.41.22:010][482]LogOutputDevice: Error: [Callstack] 0x00007ffcfac3aedd UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.02.22-14.41.22:010][482]LogOutputDevice: Error: [Callstack] 0x00007ffcfac78c42 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.02.22-14.41.22:010][482]LogOutputDevice: Error: [Callstack] 0x00007ffcfac7c1d1 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.02.22-14.41.22:010][482]LogOutputDevice: Error: [Callstack] 0x00007ffcfac7ba98 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.02.22-14.41.22:010][482]LogOutputDevice: Error: [Callstack] 0x00007ffcfa6d8c38 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.02.22-14.41.22:010][482]LogOutputDevice: Error: [Callstack] 0x00007ffcfaff50e6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.02.22-14.41.22:010][482]LogOutputDevice: Error: [Callstack] 0x00007ff7f6459bc2 UE4Editor.exe!UnknownFunction []
+[2022.02.22-14.41.22:010][482]LogOutputDevice: Error: [Callstack] 0x00007ff7f647117c UE4Editor.exe!UnknownFunction []
+[2022.02.22-14.41.22:010][482]LogOutputDevice: Error: [Callstack] 0x00007ff7f647125a UE4Editor.exe!UnknownFunction []
+[2022.02.22-14.41.22:010][482]LogOutputDevice: Error: [Callstack] 0x00007ff7f64852bd UE4Editor.exe!UnknownFunction []
+[2022.02.22-14.41.22:010][482]LogOutputDevice: Error: [Callstack] 0x00007ff7f6487fea UE4Editor.exe!UnknownFunction []
+[2022.02.22-14.41.22:010][482]LogOutputDevice: Error: [Callstack] 0x00007ffdd2f27034 KERNEL32.DLL!UnknownFunction []
+[2022.02.22-14.41.22:010][482]LogOutputDevice: Error: [Callstack] 0x00007ffdd3542651 ntdll.dll!UnknownFunction []
+[2022.02.22-14.41.22:010][482]LogOutputDevice: Error: 
