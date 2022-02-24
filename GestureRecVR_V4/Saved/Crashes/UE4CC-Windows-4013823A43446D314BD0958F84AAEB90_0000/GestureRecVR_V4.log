@@ -1,0 +1,1247 @@
+﻿Log file open, 02/23/22 18:14:00
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: GestureRecVR_V4
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.191491
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.26-CL-15973114
+LogInit: Engine Version: 4.26.2-15973114+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 2009) (), CPU: AMD Ryzen 5 5600X 6-Core Processor             , GPU: NVIDIA GeForce RTX 3070
+LogInit: Compiled (64-bit): Apr 12 2021 06:14:10
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Leeon/Documents/Unreal Projects/GestureRecVR_V4/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2022.02.23-18.14.00:873][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2022.02.23-18.14.00:873][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2022.02.23-18.14.00:873][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Leeon/Documents/Unreal Projects/GestureRecVR_V4/Saved/Config/Windows/Engine.ini]
+[2022.02.23-18.14.00:873][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2022.02.23-18.14.00:873][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusion:0]]
+[2022.02.23-18.14.00:873][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusionStaticFraction:0]]
+[2022.02.23-18.14.00:873][  0]LogConfig: Setting CVar [[vr.InstancedStereo:1]]
+[2022.02.23-18.14.00:873][  0]LogConfig: Setting CVar [[r.SeparateTranslucency:0]]
+[2022.02.23-18.14.00:873][  0]LogConfig: Setting CVar [[r.HZBOcclusion:0]]
+[2022.02.23-18.14.00:873][  0]LogConfig: Setting CVar [[r.SSR.MaxRoughness:0]]
+[2022.02.23-18.14.00:873][  0]LogConfig: Setting CVar [[r.rhicmdbypass:0]]
+[2022.02.23-18.14.00:873][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Leeon/Documents/Unreal Projects/GestureRecVR_V4/Saved/Config/Windows/Engine.ini]
+[2022.02.23-18.14.00:873][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Leeon/Documents/Unreal Projects/GestureRecVR_V4/Saved/Config/Windows/Engine.ini]
+[2022.02.23-18.14.00:873][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2022.02.23-18.14.00:873][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2022.02.23-18.14.00:873][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2022.02.23-18.14.00:873][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2022.02.23-18.14.00:873][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2022.02.23-18.14.00:873][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2022.02.23-18.14.00:873][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2022.02.23-18.14.00:873][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2022.02.23-18.14.00:873][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2022.02.23-18.14.00:873][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2022.02.23-18.14.00:873][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2022.02.23-18.14.00:873][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2022.02.23-18.14.00:873][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2022.02.23-18.14.00:873][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2022.02.23-18.14.00:873][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Leeon/Documents/Unreal Projects/GestureRecVR_V4/Saved/Config/Windows/Engine.ini]
+[2022.02.23-18.14.00:873][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2022.02.23-18.14.00:873][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2022.02.23-18.14.00:873][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2022.02.23-18.14.00:873][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2022.02.23-18.14.00:873][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2022.02.23-18.14.00:873][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2022.02.23-18.14.00:873][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2022.02.23-18.14.00:873][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2022.02.23-18.14.00:873][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2022.02.23-18.14.00:873][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2022.02.23-18.14.00:873][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2022.02.23-18.14.00:873][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2022.02.23-18.14.00:873][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2022.02.23-18.14.00:873][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2022.02.23-18.14.00:873][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Leeon/Documents/Unreal Projects/GestureRecVR_V4/Saved/Config/Windows/Engine.ini]
+[2022.02.23-18.14.00:873][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Leeon/Documents/Unreal Projects/GestureRecVR_V4/Saved/Config/Windows/Engine.ini]
+[2022.02.23-18.14.00:915][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Leeon/Documents/Unreal Projects/GestureRecVR_V4/Saved/Config/Windows/Scalability.ini]
+[2022.02.23-18.14.00:915][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.02.23-18.14.00:915][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.02.23-18.14.00:915][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Leeon/Documents/Unreal Projects/GestureRecVR_V4/Saved/Config/Windows/Scalability.ini]
+[2022.02.23-18.14.00:915][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2022.02.23-18.14.00:915][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Leeon/Documents/Unreal Projects/GestureRecVR_V4/Saved/Config/Windows/Scalability.ini]
+[2022.02.23-18.14.00:915][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.02.23-18.14.00:915][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.02.23-18.14.00:915][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.02.23-18.14.00:915][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.02.23-18.14.00:915][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.02.23-18.14.00:915][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.02.23-18.14.00:915][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.02.23-18.14.00:915][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.02.23-18.14.00:915][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.02.23-18.14.00:915][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.02.23-18.14.00:916][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.02.23-18.14.00:916][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.02.23-18.14.00:916][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.02.23-18.14.00:916][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.02.23-18.14.00:916][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.02.23-18.14.00:916][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.02.23-18.14.00:916][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.02.23-18.14.00:916][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.02.23-18.14.00:916][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Leeon/Documents/Unreal Projects/GestureRecVR_V4/Saved/Config/Windows/Scalability.ini]
+[2022.02.23-18.14.00:916][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2022.02.23-18.14.00:916][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.02.23-18.14.00:916][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.02.23-18.14.00:916][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2022.02.23-18.14.00:916][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.02.23-18.14.00:916][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2022.02.23-18.14.00:916][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.02.23-18.14.00:916][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2022.02.23-18.14.00:916][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2022.02.23-18.14.00:916][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.02.23-18.14.00:916][  0]LogConfig: Setting CVar [[r.BloomQuality:1]]
+[2022.02.23-18.14.00:916][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2022.02.23-18.14.00:916][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.02.23-18.14.00:916][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.02.23-18.14.00:916][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.02.23-18.14.00:916][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.02.23-18.14.00:916][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.02.23-18.14.00:916][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.02.23-18.14.00:916][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.02.23-18.14.00:916][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.02.23-18.14.00:916][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.02.23-18.14.00:916][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.02.23-18.14.00:916][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.02.23-18.14.00:916][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.02.23-18.14.00:916][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.02.23-18.14.00:916][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.02.23-18.14.00:916][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.02.23-18.14.00:916][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.02.23-18.14.00:916][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.02.23-18.14.00:916][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.02.23-18.14.00:916][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Leeon/Documents/Unreal Projects/GestureRecVR_V4/Saved/Config/Windows/Scalability.ini]
+[2022.02.23-18.14.00:916][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.02.23-18.14.00:916][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.02.23-18.14.00:916][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.02.23-18.14.00:916][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.02.23-18.14.00:916][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.02.23-18.14.00:916][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.02.23-18.14.00:916][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.02.23-18.14.00:916][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.02.23-18.14.00:916][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.02.23-18.14.00:916][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Leeon/Documents/Unreal Projects/GestureRecVR_V4/Saved/Config/Windows/Scalability.ini]
+[2022.02.23-18.14.00:916][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:4]]
+[2022.02.23-18.14.00:916][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.02.23-18.14.00:916][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2022.02.23-18.14.00:916][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.02.23-18.14.00:916][  0]LogConfig: Setting CVar [[r.SceneColorFormat:2]]
+[2022.02.23-18.14.00:916][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.02.23-18.14.00:916][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2022.02.23-18.14.00:916][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.02.23-18.14.00:916][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.02.23-18.14.00:916][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.02.23-18.14.00:916][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.02.23-18.14.00:916][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.02.23-18.14.00:916][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.02.23-18.14.00:916][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.02.23-18.14.00:916][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.02.23-18.14.00:916][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.02.23-18.14.00:916][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.02.23-18.14.00:916][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.02.23-18.14.00:916][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.02.23-18.14.00:916][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.02.23-18.14.00:916][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.02.23-18.14.00:916][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.02.23-18.14.00:916][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.02.23-18.14.00:917][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.02.23-18.14.00:917][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.02.23-18.14.00:917][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.02.23-18.14.00:917][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.02.23-18.14.00:917][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Leeon/Documents/Unreal Projects/GestureRecVR_V4/Saved/Config/Windows/Scalability.ini]
+[2022.02.23-18.14.00:917][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.02.23-18.14.00:917][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.02.23-18.14.00:917][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/Leeon/Documents/Unreal Projects/GestureRecVR_V4/Saved/Config/Windows/Scalability.ini]
+[2022.02.23-18.14.00:917][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.02.23-18.14.00:917][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.02.23-18.14.00:917][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.02.23-18.14.00:917][  0]LogInit: Selected Device Profile: [Windows]
+[2022.02.23-18.14.00:917][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2022.02.23-18.14.00:917][  0]LogHAL: Display: Platform has ~ 16 GB [17078153216 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.02.23-18.14.00:917][  0]LogInit: Going up to parent DeviceProfile []
+[2022.02.23-18.14.00:917][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Leeon/Documents/Unreal Projects/GestureRecVR_V4/Saved/Config/Windows/Scalability.ini]
+[2022.02.23-18.14.00:917][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.02.23-18.14.00:917][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.02.23-18.14.00:917][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Leeon/Documents/Unreal Projects/GestureRecVR_V4/Saved/Config/Windows/Scalability.ini]
+[2022.02.23-18.14.00:917][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2022.02.23-18.14.00:917][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Leeon/Documents/Unreal Projects/GestureRecVR_V4/Saved/Config/Windows/Scalability.ini]
+[2022.02.23-18.14.00:917][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.02.23-18.14.00:917][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.02.23-18.14.00:917][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.02.23-18.14.00:917][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.02.23-18.14.00:917][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.02.23-18.14.00:917][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.02.23-18.14.00:917][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.02.23-18.14.00:917][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.02.23-18.14.00:917][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.02.23-18.14.00:917][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.02.23-18.14.00:917][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.02.23-18.14.00:917][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.02.23-18.14.00:917][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.02.23-18.14.00:917][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.02.23-18.14.00:917][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.02.23-18.14.00:917][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.02.23-18.14.00:917][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.02.23-18.14.00:917][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.02.23-18.14.00:917][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Leeon/Documents/Unreal Projects/GestureRecVR_V4/Saved/Config/Windows/Scalability.ini]
+[2022.02.23-18.14.00:917][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2022.02.23-18.14.00:917][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.02.23-18.14.00:917][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.02.23-18.14.00:917][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2022.02.23-18.14.00:917][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.02.23-18.14.00:917][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2022.02.23-18.14.00:917][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.02.23-18.14.00:917][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2022.02.23-18.14.00:917][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2022.02.23-18.14.00:917][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.02.23-18.14.00:917][  0]LogConfig: Setting CVar [[r.BloomQuality:1]]
+[2022.02.23-18.14.00:917][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2022.02.23-18.14.00:917][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.02.23-18.14.00:917][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.02.23-18.14.00:917][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.02.23-18.14.00:917][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.02.23-18.14.00:917][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.02.23-18.14.00:917][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.02.23-18.14.00:917][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.02.23-18.14.00:917][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.02.23-18.14.00:917][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.02.23-18.14.00:917][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.02.23-18.14.00:917][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.02.23-18.14.00:917][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.02.23-18.14.00:917][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.02.23-18.14.00:917][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.02.23-18.14.00:917][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.02.23-18.14.00:917][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.02.23-18.14.00:917][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.02.23-18.14.00:917][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.02.23-18.14.00:917][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Leeon/Documents/Unreal Projects/GestureRecVR_V4/Saved/Config/Windows/Scalability.ini]
+[2022.02.23-18.14.00:917][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.02.23-18.14.00:918][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.02.23-18.14.00:918][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.02.23-18.14.00:918][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.02.23-18.14.00:918][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.02.23-18.14.00:918][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.02.23-18.14.00:918][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.02.23-18.14.00:918][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.02.23-18.14.00:918][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.02.23-18.14.00:918][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Leeon/Documents/Unreal Projects/GestureRecVR_V4/Saved/Config/Windows/Scalability.ini]
+[2022.02.23-18.14.00:918][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:4]]
+[2022.02.23-18.14.00:918][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.02.23-18.14.00:918][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2022.02.23-18.14.00:918][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.02.23-18.14.00:918][  0]LogConfig: Setting CVar [[r.SceneColorFormat:2]]
+[2022.02.23-18.14.00:918][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.02.23-18.14.00:918][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2022.02.23-18.14.00:918][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.02.23-18.14.00:918][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.02.23-18.14.00:918][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.02.23-18.14.00:918][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.02.23-18.14.00:918][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.02.23-18.14.00:918][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.02.23-18.14.00:918][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.02.23-18.14.00:918][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.02.23-18.14.00:918][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.02.23-18.14.00:918][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.02.23-18.14.00:918][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.02.23-18.14.00:918][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.02.23-18.14.00:918][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.02.23-18.14.00:918][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.02.23-18.14.00:918][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.02.23-18.14.00:918][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.02.23-18.14.00:918][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.02.23-18.14.00:918][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.02.23-18.14.00:918][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.02.23-18.14.00:918][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.02.23-18.14.00:918][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Leeon/Documents/Unreal Projects/GestureRecVR_V4/Saved/Config/Windows/Scalability.ini]
+[2022.02.23-18.14.00:918][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.02.23-18.14.00:918][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.02.23-18.14.00:918][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/Leeon/Documents/Unreal Projects/GestureRecVR_V4/Saved/Config/Windows/Scalability.ini]
+[2022.02.23-18.14.00:918][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.02.23-18.14.00:918][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.02.23-18.14.00:918][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.02.23-18.14.00:918][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.02.23-18.14.00:918][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2022.02.23-18.14.00:918][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2022.02.23-18.14.00:918][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2022.02.23-18.14.00:918][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Leeon/Documents/Unreal Projects/GestureRecVR_V4/Saved/Config/Windows/Engine.ini]
+[2022.02.23-18.14.00:918][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Leeon/Documents/Unreal Projects/GestureRecVR_V4/Saved/Config/Windows/Editor.ini]
+[2022.02.23-18.14.00:918][  0]LogInit: Computer: DESKTOP-7QHTOIG
+[2022.02.23-18.14.00:918][  0]LogInit: User: Leeon
+[2022.02.23-18.14.00:918][  0]LogInit: CPU Page size=4096, Cores=6
+[2022.02.23-18.14.00:918][  0]LogInit: High frequency timer resolution =14.318180 MHz
+[2022.02.23-18.14.00:918][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2022.02.23-18.14.00:918][  0]LogMemory: Platform Memory Stats for Windows
+[2022.02.23-18.14.00:918][  0]LogMemory: Process Physical Memory: 137.68 MB used, 137.68 MB peak
+[2022.02.23-18.14.00:918][  0]LogMemory: Process Virtual Memory: 117.86 MB used, 117.86 MB peak
+[2022.02.23-18.14.00:918][  0]LogMemory: Physical Memory: 10734.81 MB used,  5552.19 MB free, 16287.00 MB total
+[2022.02.23-18.14.00:918][  0]LogMemory: Virtual Memory: 134197608.00 MB used,  20119.26 MB free, 134217728.00 MB total
+[2022.02.23-18.14.00:924][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.02.23-18.14.00:954][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2022.02.23-18.14.00:954][  0]LogInit: Using OS detected language (en-GB).
+[2022.02.23-18.14.00:954][  0]LogInit: Using OS detected locale (en-GB).
+[2022.02.23-18.14.00:957][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so the 'en' localization will be used.
+[2022.02.23-18.14.01:092][  0]LogInit: Setting process to per monitor DPI aware
+[2022.02.23-18.14.01:110][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.02.23-18.14.01:128][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.02.23-18.14.01:128][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.02.23-18.14.02:329][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2022.02.23-18.14.02:329][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2022.02.23-18.14.02:329][  0]LogD3D11RHI: D3D11 adapters:
+[2022.02.23-18.14.02:406][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 3070' (Feature Level 11_0)
+[2022.02.23-18.14.02:406][  0]LogD3D11RHI:       8043/0/8143 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2022.02.23-18.14.02:408][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2022.02.23-18.14.02:408][  0]LogD3D11RHI:       0/0/8143 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2022.02.23-18.14.02:408][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2022.02.23-18.14.02:415][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2022.02.23-18.14.02:416][  0]LogD3D11RHI:     GPU DeviceId: 0x2488 (for the marketing name, search the web for "GPU Device Id")
+[2022.02.23-18.14.02:416][  0]LogWindows: EnumDisplayDevices:
+[2022.02.23-18.14.02:416][  0]LogWindows:    0. 'NVIDIA GeForce RTX 3070' (P:1 D:1)
+[2022.02.23-18.14.02:416][  0]LogWindows:    1. 'NVIDIA GeForce RTX 3070' (P:0 D:1)
+[2022.02.23-18.14.02:416][  0]LogWindows:    2. 'NVIDIA GeForce RTX 3070' (P:0 D:0)
+[2022.02.23-18.14.02:416][  0]LogWindows:    3. 'NVIDIA GeForce RTX 3070' (P:0 D:0)
+[2022.02.23-18.14.02:416][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2022.02.23-18.14.02:416][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 3070
+[2022.02.23-18.14.02:416][  0]LogD3D11RHI:   Driver Version: 497.29 (internal:30.0.14.9729, unified:497.29)
+[2022.02.23-18.14.02:416][  0]LogD3D11RHI:      Driver Date: 12-15-2021
+[2022.02.23-18.14.02:416][  0]LogRHI: Texture pool is 5630 MB (70% of 8043 MB)
+[2022.02.23-18.14.02:466][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2022.02.23-18.14.02:466][  0]LogD3D11RHI: Async texture creation enabled
+[2022.02.23-18.14.02:466][  0]LogD3D11RHI: Array index from any shader is supported
+[2022.02.23-18.14.02:484][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2022.02.23-18.14.02:485][  0]LogRHI: GeForceNow SDK initialized: 1
+[2022.02.23-18.14.02:711][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2022.02.23-18.14.02:727][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.02.23-18.14.02:727][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.02.23-18.14.02:727][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.02.23-18.14.02:727][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.02.23-18.14.02:727][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.02.23-18.14.02:727][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.02.23-18.14.02:727][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.02.23-18.14.02:727][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.02.23-18.14.02:727][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.02.23-18.14.02:727][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.02.23-18.14.02:743][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.02.23-18.14.02:743][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.02.23-18.14.02:750][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.02.23-18.14.02:756][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2022.02.23-18.14.02:762][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.02.23-18.14.02:768][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.02.23-18.14.02:774][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2022.02.23-18.14.02:780][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2022.02.23-18.14.02:786][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2022.02.23-18.14.02:803][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2022.02.23-18.14.02:803][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2022.02.23-18.14.02:809][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2022.02.23-18.14.02:815][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2022.02.23-18.14.02:821][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2022.02.23-18.14.02:826][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2022.02.23-18.14.02:837][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.02.23-18.14.02:837][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.02.23-18.14.02:844][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2022.02.23-18.14.02:850][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.02.23-18.14.02:857][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.02.23-18.14.02:863][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.02.23-18.14.02:863][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2022.02.23-18.14.02:868][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.02.23-18.14.02:913][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.02.23-18.14.02:913][  0]LogShaderCompilers: Guid format shader working directory is -26 characters bigger than the processId version (../../../../../../Users/Leeon/Documents/Unreal Projects/GestureRecVR_V4/Intermediate/Shaders/WorkingDirectory/12624/).
+[2022.02.23-18.14.02:913][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Leeon/AppData/Local/Temp/UnrealShaderWorkingDir/47FCB820455909A50F46579DE4DA297D/'.
+[2022.02.23-18.14.02:914][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2022.02.23-18.14.02:914][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2022.02.23-18.14.03:583][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2022.02.23-18.14.03:629][  0]LogDerivedDataCache: Loaded boot cache 0.05s 98MB C:/Users/Leeon/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2022.02.23-18.14.03:629][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Leeon/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2022.02.23-18.14.03:629][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Leeon/Documents/Unreal Projects/GestureRecVR_V4/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.02.23-18.14.03:629][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2022.02.23-18.14.03:629][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Leeon/Documents/Unreal Projects/GestureRecVR_V4/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.02.23-18.14.03:629][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2022.02.23-18.14.03:640][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2022.02.23-18.14.03:641][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.02.23-18.14.03:641][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2022.02.23-18.14.03:646][  0]LogDerivedDataCache: Speed tests for C:/Users/Leeon/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2022.02.23-18.14.03:646][  0]LogDerivedDataCache: Display: Performance to C:/Users/Leeon/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.03ms. RandomReadSpeed=1630.50MBs, RandomWriteSpeed=205.70MBs. Assigned SpeedClass 'Local'
+[2022.02.23-18.14.03:648][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Leeon/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.02.23-18.14.03:648][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.02.23-18.14.03:648][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2022.02.23-18.14.03:694][  0]LogSlate: Using FreeType 2.10.0
+[2022.02.23-18.14.03:694][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.02.23-18.14.03:713][  0]LogAssetRegistry: FAssetRegistry took 0.0023 seconds to start up
+[2022.02.23-18.14.03:893][  0]LogInit: Selected Device Profile: [Windows]
+[2022.02.23-18.14.03:894][  0]LogInit: Active device profile: [000002417C3EA200][000002416EFCA4C0 49] Windows
+[2022.02.23-18.14.03:894][  0]LogInit: Profiles: [000002417C3EA200][000002416EFCA4C0 49] Windows, [000002417C36D600][000002417999E640 49] WindowsNoEditor, [000002417C3E9800][00000241799A27C0 49] WindowsServer, [000002417C36DF00][00000241799A6940 49] WindowsClient, [000002417C3EAB00][00000241799AAAC0 49] IOS, [000002417C36F300][00000241799AEC40 49] iPadAir, [000002417C3EA600][00000241799B2DC0 49] iPadAir2, [000002417C319D00][00000241799BB080 49] IPadPro, [000002417C319E00][00000241799B70C0 49] iPadAir3, [000002417C36CA00][00000241799BF240 49] iPadAir4, [000002417C31B600][00000241799C33C0 49] iPadMini2, [000002417C36F000][00000241799C7540 49] iPadMini3, [000002417C319400][00000241799CB6C0 49] iPadMini4, [000002417C36C600][000002417999B800 49] iPadMini5, [000002417C33D300][000002417A307A40 49] iPhone6, [000002417C33D400][000002417A303A80 49] iPodTouch6, [000002417C318600][000002417A313D40 49] iPhone7, [000002417C319000][000002417A30E0C0 49] iPodTouch7, [000002417C33EB00][000002417A316240 49] iPhone5S, [000002417C31A800][000002417A31A3C0 49] iPhone6Plus, [000002417C33FC00][000002417A31E540 49] iPhone6S, [000002417C31B400][000002417A3226C0 49] iPhone6SPlus, [000002417C33C700][000002417A326840 49] iPhone7Plus, [000002417C318A00][000002417A32A9C0 49] iPhoneSE, [000002417C33E300][000002417A32EB40 49] iPhone8, [000002417C319700][000002417A332CC0 49] iPhone8Plus, [000002417C33C200][000002417A336E40 49] iPhoneX, [000002417C31A500][000002417A33AFC0 49] iPhoneXS, [000002417C33DE00][000002417A33F140 49] iPhoneXSMax, [000002417C319800][000002417A3432C0 49] iPhoneXR, [000002417C33CD00][000002417A347440 49] iPhone11, [000002417C31A400][000002417A34B5C0 49] iPhone11Pro, [000002417C33E100][000002417A34F740 49] iPhone11ProMax, [000002417C319F00][000002417A30B880 49] iPhoneSE2, [000002417C33DC00][000002417A3539C0 49] iPhone12Mini, [000002417C31AC00][000002417A357B00 49] iPhone12, [000002417C33DB00][000002417A35BC40 49] iPhone12Pro, [000002417C31AD00][000002417A362100 49] iPhone12ProMax, [000002417C3E9A00][000002417A366280 49] iPadPro105, [000002417C31A700][000002417A36A400 49] iPadPro129, [000002417C3E8500][000002417A36E580 49] iPadPro97, [000002417C31A600][000002417A372700 49] iPadPro2_129, [000002417C3EB000][000002417A376880 49] iPad5, [000002417C31B700][000002417A37AA00 49] iPad6, [000002417C3E8800][000002417A37EB80 49] iPad7, [000002417C319600][000002417A382D00 49] iPad8, [000002417C3E9F00][000002417A386E80 49] iPadPro11, [000002417C318200][000002417A38B000 49] iPadPro2_11, [000002417C3E8900][000002417A38F180 49] iPadPro3_129, [000002417C31BB00][000002417A393300 49] iPadPro4_129, [000002417C3E9700][000002417A397480 49] AppleTV, [000002417C31A100][000002417A39B600 49] AppleTV4K, [000002417C3E9E00][000002417A39F780 49] TVOS, [000002417C31B800][000002417A35F8C0 49] Mac, [000002417C3E9B00][000002417A3A3A00 49] MacClient, [000002417C319500][000002417A3A7B40 49] MacNoEditor, [000002417C3EA900][000002417A3ABC80 49] MacServer, [000002417C31BD00][000002417A3B2140 49] Linux, [000002417C3E8600][000002417A3B62C0 49] LinuxAArch64, [000002417C31B200][000002417A3BA440 49] LinuxNoEditor, [000002417C3E8200][000002417A3BE5C0 49] LinuxAArch64NoEditor, [000002417C318900][000002417A3C2740 49] LinuxClient, [000002417C3E9100][000002417A3C68C0 49] LinuxAArch64Client, [000002417C318D00][000002417A3CAA40 49] LinuxServer, [000002417C3E9200][000002417A3E0BC0 49] LinuxAArch64Server, [000002417C319900][000002417A3E4D40 49] Android, [000002417C3E8D00][000002417A3E8EC0 49] Android_Low, [000002417C31BE00][000002417A3F1040 49] Android_Mid, [000002417C3E8C00][000002417A4051C0 49] Android_High, [000002417C319A00][000002417A409340 49] Android_Default, [000002417C3E9600][000002417A4934C0 49] Android_Adreno4xx, [000002417C318300][000002417A497640 49] Android_Adreno5xx_Low, [000002417C3E9900][000002417A5217C0 49] Android_Adreno5xx, [000002417C36E100][000002417A529940 49] Android_Adreno6xx, [000002417C33D200][000002417A3AFA80 49] Android_Adreno6xx_Vulkan, [000002417C36E600][000002417A531BC0 49] Android_Mali_T6xx, [000002417C33EF00][000002417A535D00 49] Android_Mali_T7xx, [000002417C36F600][000002417A53C1C0 49] Android_Mali_T8xx, [000002417C33FF00][000002417A540340 49] Android_Mali_G71, [000002417C36D500][000002417A5444C0 49] Android_Mali_G72, [000002417C33C600][000002417A568640 49] Android_Mali_G72_Vulkan, [000002417C36F400][000002417A56C7C0 49] Android_Mali_G76, [000002417C33D100][000002417A570940 49] Android_Mali_G76_Vulkan, [000002417C36D200][000002417A574AC0 49] Android_Mali_G77, [000002417C33D900][000002417A578C40 49] Android_Mali_G77_Vulkan, [000002417C36E700][000002417A588DC0 49] Android_Vulkan_SM5, [000002417C33F600][000002417A58CF40 49] Android_PowerVR_G6xxx, [000002417C36C800][000002417A5910C0 49] Android_PowerVR_GT7xxx, [000002417C33C900][000002417A59D240 49] Android_PowerVR_GE8xxx, [000002417C36ED00][000002417A5A13C0 49] Android_PowerVR_GM9xxx, [000002417C33D000][000002417A5A5540 49] Android_PowerVR_GM9xxx_Vulkan, [000002417C36DA00][000002417A5A96C0 49] Android_TegraK1, [000002417C33F800][000002417A5AD840 49] Android_Unknown_Vulkan, [000002417C36D300][000002417A5B19C0 49] Lumin, [000002417C33D600][000002417A539B00 49] Lumin_Desktop, [000002417C36CE00][000002417A5B5C40 49] HoloLens, 
+[2022.02.23-18.14.03:979][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.02.23-18.14.03:979][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.02.23-18.14.03:979][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.02.23-18.14.03:979][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.02.23-18.14.03:979][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.02.23-18.14.03:992][  0]LogNetVersion: GestureRecVR_V4 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 2971907211)
+[2022.02.23-18.14.04:346][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2022.02.23-18.14.04:390][  0]LogPackageLocalizationCache: Processed 22 localized package path(s) for 1 prioritized culture(s) in 0.043633 seconds
+[2022.02.23-18.14.04:394][  0]LogUObjectArray: 16831 objects as part of root set at end of initial load.
+[2022.02.23-18.14.04:394][  0]LogUObjectAllocator: 4209728 out of 0 bytes used by permanent object pool.
+[2022.02.23-18.14.04:394][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.02.23-18.14.04:678][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.02.23-18.14.04:681][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.02.23-18.14.04:751][  0]SourceControl: Source control is disabled
+[2022.02.23-18.14.04:751][  0]SourceControl: Source control is disabled
+[2022.02.23-18.14.04:754][  0]SourceControl: Source control is disabled
+[2022.02.23-18.14.04:758][  0]SourceControl: Source control is disabled
+[2022.02.23-18.14.04:764][  0]SourceControl: Source control is disabled
+[2022.02.23-18.14.04:770][  0]LogUProjectInfo: Found projects:
+[2022.02.23-18.14.04:776][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.02.23-18.14.04:777][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.02.23-18.14.04:950][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.02.23-18.14.04:959][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.02.23-18.14.04:959][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.02.23-18.14.05:001][  0]LogCollectionManager: Loaded 0 collections in 0.001246 seconds
+[2022.02.23-18.14.05:020][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Leeon/Documents/Unreal Projects/GestureRecVR_V4/Saved/Collections/' took 0.00s
+[2022.02.23-18.14.05:020][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Leeon/Documents/Unreal Projects/GestureRecVR_V4/Content/Developers/Leeon/Collections/' took 0.00s
+[2022.02.23-18.14.05:020][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Leeon/Documents/Unreal Projects/GestureRecVR_V4/Content/Collections/' took 0.00s
+[2022.02.23-18.14.05:020][  0]LogOcInput: OculusInput pre-init called
+[2022.02.23-18.14.05:028][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2022.02.23-18.14.05:028][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2022.02.23-18.14.05:068][  0]LogEngine: Initializing Engine...
+[2022.02.23-18.14.05:070][  0]LogHMD: SteamVR initialized.  Driver: lighthouse  Display: LHR-2B6E7D6D
+[2022.02.23-18.14.05:071][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2022.02.23-18.14.05:159][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.02.23-18.14.05:165][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.02.23-18.14.05:175][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.02.23-18.14.05:179][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.02.23-18.14.05:179][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.02.23-18.14.05:179][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.02.23-18.14.05:179][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.02.23-18.14.05:179][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.02.23-18.14.05:179][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.02.23-18.14.05:179][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.02.23-18.14.05:179][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.02.23-18.14.05:179][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.02.23-18.14.05:179][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.02.23-18.14.05:179][  0]LogAudio: Display: Using built-in audio occlusion.
+[2022.02.23-18.14.05:179][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2022.02.23-18.14.05:187][  0]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.23-18.14.05:187][  0]LogAudioMixer: Display: 1: FrontRight
+[2022.02.23-18.14.05:206][  0]LogAudioMixer: Display: Using Audio Device HyperX Headset (High Definition Audio Device)
+[2022.02.23-18.14.05:209][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.02.23-18.14.05:210][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.02.23-18.14.05:210][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.02.23-18.14.05:211][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.02.23-18.14.05:211][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.02.23-18.14.05:211][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.02.23-18.14.05:212][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.02.23-18.14.05:212][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.02.23-18.14.05:212][  0]LogInit: FAudioDevice initialized.
+[2022.02.23-18.14.05:212][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.02.23-18.14.05:212][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.02.23-18.14.05:254][  0]LogDerivedDataCache: Saved boot cache 0.04s 98MB C:/Users/Leeon/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2022.02.23-18.14.05:257][  0]LogInit: Texture streaming: Enabled
+[2022.02.23-18.14.05:266][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.2-15973114+++UE4+Release-4.26
+[2022.02.23-18.14.05:269][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.02.23-18.14.05:269][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2022.02.23-18.14.05:270][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2022.02.23-18.14.05:293][  0]LogInit: Transaction tracking system initialized
+[2022.02.23-18.14.05:307][  0]BlueprintLog: New page: Editor Load
+[2022.02.23-18.14.05:354][  0]LocalizationService: Localization service is disabled
+[2022.02.23-18.14.05:370][  0]TimingProfiler: Initialize
+[2022.02.23-18.14.05:370][  0]TimingProfiler: OnSessionChanged
+[2022.02.23-18.14.05:370][  0]LoadingProfiler: Initialize
+[2022.02.23-18.14.05:370][  0]LoadingProfiler: OnSessionChanged
+[2022.02.23-18.14.05:370][  0]NetworkingProfiler: Initialize
+[2022.02.23-18.14.05:370][  0]NetworkingProfiler: OnSessionChanged
+[2022.02.23-18.14.05:370][  0]MemoryProfiler: Initialize
+[2022.02.23-18.14.05:370][  0]MemoryProfiler: OnSessionChanged
+[2022.02.23-18.14.05:406][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.02.23-18.14.05:407][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.02.23-18.14.05:540][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2022.02.23-18.14.05:540][  0]LogCook: Display: Mobile HDR setting 1
+[2022.02.23-18.14.05:651][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Leeon/Documents/Unreal Projects/GestureRecVR_V4/Content/' took 0.01s
+[2022.02.23-18.14.05:775][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.02.23-18.14.05:777][  0]SourceControl: Source control is disabled
+[2022.02.23-18.14.05:777][  0]LogUnrealEdMisc: Loading editor; pre map load, took 5.680
+[2022.02.23-18.14.05:777][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Leeon/Documents/Unreal Projects/GestureRecVR_V4/Content/VirtualRealityBP/Maps/MotionControllerMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.02.23-18.14.05:781][  0]LightingResults: New page: Lighting Build
+[2022.02.23-18.14.05:782][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.02.23-18.14.05:782][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.23-18.14.05:782][  0]MapCheck: New page: Map Check
+[2022.02.23-18.14.05:782][  0]LightingResults: New page: Lighting Build
+[2022.02.23-18.14.05:790][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2022.02.23-18.14.06:673][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'MotionControllerMap'.
+[2022.02.23-18.14.06:673][  0]LogAIModule: Creating AISystem for world MotionControllerMap
+[2022.02.23-18.14.06:681][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.02.23-18.14.06:691][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2022.02.23-18.14.06:691][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.02.23-18.14.06:691][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.221ms to complete.
+[2022.02.23-18.14.06:691][  0]LogFileHelpers: Loading map 'MotionControllerMap' took 0.914
+[2022.02.23-18.14.06:693][  0]LogUnrealEdMisc: Total Editor Startup Time, took 6.596
+[2022.02.23-18.14.06:821][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.23-18.14.06:827][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.23-18.14.06:831][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.23-18.14.06:835][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.23-18.14.06:863][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0073 seconds. Added 3601 classes and 859 folders.
+[2022.02.23-18.14.06:867][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2022.02.23-18.14.06:877][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.02.23-18.14.06:877][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.23-18.14.06:877][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.02.23-18.14.06:877][  0]LogPakFile: OnPakFileMounted2Time == 0.000009
+[2022.02.23-18.14.06:884][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.02.23-18.14.06:884][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.23-18.14.06:884][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.02.23-18.14.06:884][  0]LogPakFile: OnPakFileMounted2Time == 0.000013
+[2022.02.23-18.14.06:888][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2022.02.23-18.14.06:888][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.23-18.14.06:888][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2022.02.23-18.14.06:888][  0]LogPakFile: OnPakFileMounted2Time == 0.000016
+[2022.02.23-18.14.06:892][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.02.23-18.14.06:892][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.23-18.14.06:892][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.02.23-18.14.06:892][  0]LogPakFile: OnPakFileMounted2Time == 0.000019
+[2022.02.23-18.14.06:896][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.02.23-18.14.06:896][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.23-18.14.06:896][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.02.23-18.14.06:896][  0]LogPakFile: OnPakFileMounted2Time == 0.000021
+[2022.02.23-18.14.06:899][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.02.23-18.14.06:899][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.23-18.14.06:899][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.02.23-18.14.06:899][  0]LogPakFile: OnPakFileMounted2Time == 0.000024
+[2022.02.23-18.14.06:903][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.02.23-18.14.06:903][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.23-18.14.06:903][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.02.23-18.14.06:903][  0]LogPakFile: OnPakFileMounted2Time == 0.000027
+[2022.02.23-18.14.06:908][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.02.23-18.14.06:908][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.23-18.14.06:908][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.02.23-18.14.06:908][  0]LogPakFile: OnPakFileMounted2Time == 0.000030
+[2022.02.23-18.14.06:915][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.02.23-18.14.06:915][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.23-18.14.06:915][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.02.23-18.14.06:915][  0]LogPakFile: OnPakFileMounted2Time == 0.000036
+[2022.02.23-18.14.06:921][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.02.23-18.14.06:921][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.23-18.14.06:921][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.02.23-18.14.06:921][  0]LogPakFile: OnPakFileMounted2Time == 0.000041
+[2022.02.23-18.14.06:925][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.02.23-18.14.06:925][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.23-18.14.06:925][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.02.23-18.14.06:925][  0]LogPakFile: OnPakFileMounted2Time == 0.000044
+[2022.02.23-18.14.06:929][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.02.23-18.14.06:929][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.23-18.14.06:929][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.02.23-18.14.06:929][  0]LogPakFile: OnPakFileMounted2Time == 0.000087
+[2022.02.23-18.14.06:934][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.02.23-18.14.06:934][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.23-18.14.06:934][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.02.23-18.14.06:934][  0]LogPakFile: OnPakFileMounted2Time == 0.000091
+[2022.02.23-18.14.06:938][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.02.23-18.14.06:938][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.23-18.14.06:938][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.02.23-18.14.06:938][  0]LogPakFile: OnPakFileMounted2Time == 0.000094
+[2022.02.23-18.14.06:941][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.02.23-18.14.06:942][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.23-18.14.06:942][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.02.23-18.14.06:942][  0]LogPakFile: OnPakFileMounted2Time == 0.000097
+[2022.02.23-18.14.06:946][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.02.23-18.14.06:946][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.23-18.14.06:946][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.02.23-18.14.06:946][  0]LogPakFile: OnPakFileMounted2Time == 0.000100
+[2022.02.23-18.14.06:949][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.02.23-18.14.06:949][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.23-18.14.06:949][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.02.23-18.14.06:949][  0]LogPakFile: OnPakFileMounted2Time == 0.000104
+[2022.02.23-18.14.06:954][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.02.23-18.14.06:954][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.23-18.14.06:954][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.02.23-18.14.06:954][  0]LogPakFile: OnPakFileMounted2Time == 0.000106
+[2022.02.23-18.14.06:958][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.02.23-18.14.06:958][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.23-18.14.06:958][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.02.23-18.14.06:958][  0]LogPakFile: OnPakFileMounted2Time == 0.000110
+[2022.02.23-18.14.06:965][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.02.23-18.14.06:965][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.23-18.14.06:965][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.02.23-18.14.06:965][  0]LogPakFile: OnPakFileMounted2Time == 0.000114
+[2022.02.23-18.14.06:969][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.02.23-18.14.06:969][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.23-18.14.06:969][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.02.23-18.14.06:969][  0]LogPakFile: OnPakFileMounted2Time == 0.000118
+[2022.02.23-18.14.06:973][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.02.23-18.14.06:973][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.23-18.14.06:973][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.02.23-18.14.06:973][  0]LogPakFile: OnPakFileMounted2Time == 0.000122
+[2022.02.23-18.14.06:977][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2022.02.23-18.14.06:977][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.23-18.14.06:977][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2022.02.23-18.14.06:977][  0]LogPakFile: OnPakFileMounted2Time == 0.000125
+[2022.02.23-18.14.06:982][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.02.23-18.14.06:982][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.23-18.14.06:982][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.02.23-18.14.06:982][  0]LogPakFile: OnPakFileMounted2Time == 0.000128
+[2022.02.23-18.14.06:986][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.02.23-18.14.06:986][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.23-18.14.06:986][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.02.23-18.14.06:986][  0]LogPakFile: OnPakFileMounted2Time == 0.000131
+[2022.02.23-18.14.06:990][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.02.23-18.14.06:990][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.23-18.14.06:990][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.02.23-18.14.06:990][  0]LogPakFile: OnPakFileMounted2Time == 0.000133
+[2022.02.23-18.14.07:116][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2022.02.23-18.14.07:119][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 2 classes and 0 folders.
+[2022.02.23-18.14.07:234][  0]LogSlate: Took 0.000111 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.02.23-18.14.07:236][  0]LogSlate: Took 0.000093 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.02.23-18.14.07:245][  0]LogSlate: Took 0.004773 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.02.23-18.14.07:375][  0]LogRenderer: Reallocating scene render targets to support 1232x692 Format 26 NumSamples 1 (Frame:1).
+[2022.02.23-18.14.07:478][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2022.02.23-18.14.07:478][  0]LogLoad: (Engine Initialization) Total time: 7.38 seconds
+[2022.02.23-18.14.07:478][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.02.23-18.14.07:478][  0]LogInit: First time updating LLM stats...
+[2022.02.23-18.14.07:489][  0]LogSteamVRInputDevice: Display: SteamVR runtime 1.5.17 loaded.
+[2022.02.23-18.14.07:490][  0]LogSteamVRInputDevice: Display: Action Manifest Path: ../../../../../../Users/Leeon/Documents/Unreal Projects/GestureRecVR_V4/Config/SteamVRBindings/steamvr_manifest.json
+[2022.02.23-18.14.07:490][  0]LogSteamVRInputDevice: Display: Controller Bindings Path: ../../../../../../Users/Leeon/Documents/Unreal Projects/GestureRecVR_V4/Config/SteamVRBindings
+[2022.02.23-18.14.07:494][  0]LogSteamVRInputDevice: Searching for Controller Bindings files at: ../../../../../../Users/Leeon/Documents/Unreal Projects/GestureRecVR_V4/Config/SteamVRBindings
+[2022.02.23-18.14.07:570][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Registering Application Manifest ../../../../../../Users/Leeon/Documents/Unreal Projects/GestureRecVR_V4/Config/steamvr_ue_editor_app.json : VRApplicationError_None
+[2022.02.23-18.14.07:575][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Editor Application [12624][application.generated.ue.gesturerecvr_v4-15973114.ue4editor.exe] identified to SteamVR: VRApplicationError_None
+[2022.02.23-18.14.07:575][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Trying to load Action Manifest from: C:/Users/Leeon/Documents/Unreal Projects/GestureRecVR_V4/Config/SteamVRBindings/steamvr_manifest.json
+[2022.02.23-18.14.07:576][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Manifest Path Result: Success
+[2022.02.23-18.14.07:576][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting main action set: Success
+[2022.02.23-18.14.07:576][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/controllerleft
+[2022.02.23-18.14.07:576][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.23-18.14.07:576][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/controllerright
+[2022.02.23-18.14.07:576][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.23-18.14.07:576][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_camera
+[2022.02.23-18.14.07:576][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.23-18.14.07:576][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_chest
+[2022.02.23-18.14.07:576][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.23-18.14.07:576][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_shoulder_left
+[2022.02.23-18.14.07:576][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.23-18.14.07:576][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_shoulder_right
+[2022.02.23-18.14.07:576][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.23-18.14.07:576][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_elbow_left
+[2022.02.23-18.14.07:576][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.23-18.14.07:576][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_elbow_right
+[2022.02.23-18.14.07:576][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.23-18.14.07:577][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_knee_left
+[2022.02.23-18.14.07:577][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.23-18.14.07:577][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_knee_right
+[2022.02.23-18.14.07:577][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.23-18.14.07:577][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_waist
+[2022.02.23-18.14.07:577][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.23-18.14.07:577][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_foot_left
+[2022.02.23-18.14.07:577][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.23-18.14.07:577][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_foot_right
+[2022.02.23-18.14.07:577][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.23-18.14.07:577][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_keyboard
+[2022.02.23-18.14.07:577][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.23-18.14.07:577][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_handed_pose_left
+[2022.02.23-18.14.07:577][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.23-18.14.07:577][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_handed_pose_right
+[2022.02.23-18.14.07:577][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.23-18.14.07:577][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_handed_back_left
+[2022.02.23-18.14.07:577][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.23-18.14.07:578][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_handed_back_right
+[2022.02.23-18.14.07:578][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.23-18.14.07:578][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_handed_front_left
+[2022.02.23-18.14.07:578][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.23-18.14.07:578][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_handed_front_right
+[2022.02.23-18.14.07:578][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.23-18.14.07:578][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_handed_frontr_left
+[2022.02.23-18.14.07:578][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.23-18.14.07:578][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_handed_frontr_right
+[2022.02.23-18.14.07:578][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.23-18.14.07:578][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_handed_grip_left
+[2022.02.23-18.14.07:578][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.23-18.14.07:578][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_handed_grip_right
+[2022.02.23-18.14.07:578][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.23-18.14.07:578][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/skeletonleft
+[2022.02.23-18.14.07:578][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.23-18.14.07:578][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/skeletonright
+[2022.02.23-18.14.07:578][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.23-18.14.07:578][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/out/vibrateleft
+[2022.02.23-18.14.07:578][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.23-18.14.07:578][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/out/vibrateright
+[2022.02.23-18.14.07:578][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.23-18.14.07:578][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/open_console
+[2022.02.23-18.14.07:578][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.23-18.14.07:578][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/TeleportRight
+[2022.02.23-18.14.07:578][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.23-18.14.07:578][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/TeleportRight
+[2022.02.23-18.14.07:578][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.23-18.14.07:578][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/TeleportRight
+[2022.02.23-18.14.07:578][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.23-18.14.07:578][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/TeleportRight
+[2022.02.23-18.14.07:578][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.23-18.14.07:578][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/TeleportRight
+[2022.02.23-18.14.07:578][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.23-18.14.07:578][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/TeleportRight
+[2022.02.23-18.14.07:578][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.23-18.14.07:578][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/TeleportRight
+[2022.02.23-18.14.07:578][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.23-18.14.07:579][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/TeleportLeft
+[2022.02.23-18.14.07:579][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.23-18.14.07:579][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/TeleportLeft
+[2022.02.23-18.14.07:579][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.23-18.14.07:579][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/TeleportLeft
+[2022.02.23-18.14.07:579][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.23-18.14.07:579][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/TeleportLeft
+[2022.02.23-18.14.07:579][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.23-18.14.07:579][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/TeleportLeft
+[2022.02.23-18.14.07:579][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.23-18.14.07:579][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/TeleportLeft
+[2022.02.23-18.14.07:579][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.23-18.14.07:579][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/TeleportLeft
+[2022.02.23-18.14.07:579][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.23-18.14.07:579][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/GrabLeft
+[2022.02.23-18.14.07:579][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.23-18.14.07:579][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/GrabLeft
+[2022.02.23-18.14.07:579][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.23-18.14.07:579][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/GrabLeft
+[2022.02.23-18.14.07:579][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.23-18.14.07:579][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/GrabRight
+[2022.02.23-18.14.07:579][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.23-18.14.07:579][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/GrabRight
+[2022.02.23-18.14.07:579][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.23-18.14.07:579][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/GrabRight
+[2022.02.23-18.14.07:579][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.23-18.14.07:579][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/TeleportDirectionUp axis
+[2022.02.23-18.14.07:579][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.23-18.14.07:579][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/TeleportDirectionRight axis
+[2022.02.23-18.14.07:579][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.23-18.14.07:579][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/MotionControllerThumbLeft_Y axis
+[2022.02.23-18.14.07:579][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.23-18.14.07:579][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/MotionControllerThumbLeft_Y axis
+[2022.02.23-18.14.07:579][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.23-18.14.07:579][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/MotionControllerThumbLeft_Y axis
+[2022.02.23-18.14.07:579][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.23-18.14.07:580][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/MotionControllerThumbLeft_X,MotionControllerThumbLeft_Y X Y_axis2d
+[2022.02.23-18.14.07:580][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.23-18.14.07:580][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/MotionControllerThumbLeft_X,MotionControllerThumbLeft_Y X Y_axis2d
+[2022.02.23-18.14.07:580][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.23-18.14.07:580][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/MotionControllerThumbLeft_X,MotionControllerThumbLeft_Y X Y_axis2d
+[2022.02.23-18.14.07:580][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.23-18.14.07:580][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/MotionControllerThumbLeft_X,MotionControllerThumbLeft_Y X Y_axis2d
+[2022.02.23-18.14.07:580][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.23-18.14.07:580][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/MotionControllerThumbLeft_X axis
+[2022.02.23-18.14.07:580][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.23-18.14.07:580][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/MotionControllerThumbLeft_X axis
+[2022.02.23-18.14.07:580][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.23-18.14.07:580][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/MotionControllerThumbLeft_X axis
+[2022.02.23-18.14.07:580][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.23-18.14.07:580][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/MotionControllerThumbRight_Y axis
+[2022.02.23-18.14.07:580][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.23-18.14.07:580][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/MotionControllerThumbRight_Y axis
+[2022.02.23-18.14.07:580][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.23-18.14.07:580][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/MotionControllerThumbRight_Y axis
+[2022.02.23-18.14.07:580][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.23-18.14.07:580][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/MotionControllerThumbRight_X,MotionControllerThumbRight_Y X Y_axis2d
+[2022.02.23-18.14.07:580][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.23-18.14.07:580][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/MotionControllerThumbRight_X,MotionControllerThumbRight_Y X Y_axis2d
+[2022.02.23-18.14.07:580][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.23-18.14.07:580][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/MotionControllerThumbRight_X,MotionControllerThumbRight_Y X Y_axis2d
+[2022.02.23-18.14.07:580][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.23-18.14.07:580][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/MotionControllerThumbRight_X,MotionControllerThumbRight_Y X Y_axis2d
+[2022.02.23-18.14.07:580][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.23-18.14.07:580][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/MotionControllerThumbRight_X axis
+[2022.02.23-18.14.07:580][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.23-18.14.07:580][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/MotionControllerThumbRight_X axis
+[2022.02.23-18.14.07:580][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.23-18.14.07:580][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/MotionControllerThumbRight_X axis
+[2022.02.23-18.14.07:580][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.23-18.14.07:581][  0]LogSteamVRInputDevice: Display: Action Manifest Path: ../../../../../../Users/Leeon/Documents/Unreal Projects/GestureRecVR_V4/Config/SteamVRBindings/steamvr_manifest.json
+[2022.02.23-18.14.07:581][  0]LogSteamVRInputDevice: Display: Controller Bindings Path: ../../../../../../Users/Leeon/Documents/Unreal Projects/GestureRecVR_V4/Config/SteamVRBindings
+[2022.02.23-18.14.07:585][  0]LogSteamVRInputDevice: Searching for Controller Bindings files at: ../../../../../../Users/Leeon/Documents/Unreal Projects/GestureRecVR_V4/Config/SteamVRBindings
+[2022.02.23-18.14.07:590][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Registering Application Manifest ../../../../../../Users/Leeon/Documents/Unreal Projects/GestureRecVR_V4/Config/steamvr_ue_editor_app.json : VRApplicationError_None
+[2022.02.23-18.14.07:590][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Editor Application [12624][application.generated.ue.gesturerecvr_v4-15973114.ue4editor.exe] identified to SteamVR: VRApplicationError_None
+[2022.02.23-18.14.07:590][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Trying to load Action Manifest from: C:/Users/Leeon/Documents/Unreal Projects/GestureRecVR_V4/Config/SteamVRBindings/steamvr_manifest.json
+[2022.02.23-18.14.07:591][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Manifest Path Result: Success
+[2022.02.23-18.14.07:591][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting main action set: Success
+[2022.02.23-18.14.07:591][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/controllerleft
+[2022.02.23-18.14.07:591][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.23-18.14.07:591][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/controllerright
+[2022.02.23-18.14.07:591][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.23-18.14.07:591][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_camera
+[2022.02.23-18.14.07:591][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.23-18.14.07:591][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_chest
+[2022.02.23-18.14.07:591][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.23-18.14.07:591][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_shoulder_left
+[2022.02.23-18.14.07:591][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.23-18.14.07:591][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_shoulder_right
+[2022.02.23-18.14.07:591][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.23-18.14.07:591][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_elbow_left
+[2022.02.23-18.14.07:591][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.23-18.14.07:591][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_elbow_right
+[2022.02.23-18.14.07:591][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.23-18.14.07:591][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_knee_left
+[2022.02.23-18.14.07:591][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.23-18.14.07:591][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_knee_right
+[2022.02.23-18.14.07:591][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.23-18.14.07:591][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_waist
+[2022.02.23-18.14.07:591][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.23-18.14.07:591][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_foot_left
+[2022.02.23-18.14.07:591][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.23-18.14.07:591][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_foot_right
+[2022.02.23-18.14.07:591][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.23-18.14.07:591][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_keyboard
+[2022.02.23-18.14.07:591][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.23-18.14.07:591][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_handed_pose_left
+[2022.02.23-18.14.07:591][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.23-18.14.07:591][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_handed_pose_right
+[2022.02.23-18.14.07:591][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.23-18.14.07:591][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_handed_back_left
+[2022.02.23-18.14.07:591][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.23-18.14.07:591][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_handed_back_right
+[2022.02.23-18.14.07:591][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.23-18.14.07:591][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_handed_front_left
+[2022.02.23-18.14.07:591][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.23-18.14.07:591][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_handed_front_right
+[2022.02.23-18.14.07:591][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.23-18.14.07:591][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_handed_frontr_left
+[2022.02.23-18.14.07:591][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.23-18.14.07:591][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_handed_frontr_right
+[2022.02.23-18.14.07:591][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.23-18.14.07:591][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_handed_grip_left
+[2022.02.23-18.14.07:591][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.23-18.14.07:591][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_handed_grip_right
+[2022.02.23-18.14.07:591][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.23-18.14.07:591][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/skeletonleft
+[2022.02.23-18.14.07:591][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.23-18.14.07:591][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/skeletonright
+[2022.02.23-18.14.07:591][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.23-18.14.07:591][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/out/vibrateleft
+[2022.02.23-18.14.07:591][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.23-18.14.07:591][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/out/vibrateright
+[2022.02.23-18.14.07:591][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.23-18.14.07:591][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/open_console
+[2022.02.23-18.14.07:591][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.23-18.14.07:591][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/TeleportRight
+[2022.02.23-18.14.07:591][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.23-18.14.07:591][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/TeleportRight
+[2022.02.23-18.14.07:591][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.23-18.14.07:591][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/TeleportRight
+[2022.02.23-18.14.07:591][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.23-18.14.07:591][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/TeleportRight
+[2022.02.23-18.14.07:591][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.23-18.14.07:591][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/TeleportRight
+[2022.02.23-18.14.07:591][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.23-18.14.07:591][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/TeleportRight
+[2022.02.23-18.14.07:591][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.23-18.14.07:591][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/TeleportRight
+[2022.02.23-18.14.07:591][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.23-18.14.07:591][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/TeleportLeft
+[2022.02.23-18.14.07:591][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.23-18.14.07:591][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/TeleportLeft
+[2022.02.23-18.14.07:591][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.23-18.14.07:591][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/TeleportLeft
+[2022.02.23-18.14.07:591][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.23-18.14.07:591][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/TeleportLeft
+[2022.02.23-18.14.07:591][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.23-18.14.07:591][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/TeleportLeft
+[2022.02.23-18.14.07:591][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.23-18.14.07:591][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/TeleportLeft
+[2022.02.23-18.14.07:591][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.23-18.14.07:591][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/TeleportLeft
+[2022.02.23-18.14.07:592][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.23-18.14.07:592][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/GrabLeft
+[2022.02.23-18.14.07:592][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.23-18.14.07:592][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/GrabLeft
+[2022.02.23-18.14.07:592][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.23-18.14.07:592][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/GrabLeft
+[2022.02.23-18.14.07:592][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.23-18.14.07:592][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/GrabRight
+[2022.02.23-18.14.07:592][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.23-18.14.07:592][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/GrabRight
+[2022.02.23-18.14.07:592][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.23-18.14.07:592][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/GrabRight
+[2022.02.23-18.14.07:592][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.23-18.14.07:592][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/TeleportDirectionUp axis
+[2022.02.23-18.14.07:592][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.23-18.14.07:592][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/TeleportDirectionRight axis
+[2022.02.23-18.14.07:592][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.23-18.14.07:592][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/MotionControllerThumbLeft_Y axis
+[2022.02.23-18.14.07:592][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.23-18.14.07:592][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/MotionControllerThumbLeft_Y axis
+[2022.02.23-18.14.07:592][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.23-18.14.07:592][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/MotionControllerThumbLeft_Y axis
+[2022.02.23-18.14.07:592][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.23-18.14.07:592][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/MotionControllerThumbLeft_X,MotionControllerThumbLeft_Y X Y_axis2d
+[2022.02.23-18.14.07:592][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.23-18.14.07:592][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/MotionControllerThumbLeft_X,MotionControllerThumbLeft_Y X Y_axis2d
+[2022.02.23-18.14.07:592][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.23-18.14.07:592][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/MotionControllerThumbLeft_X,MotionControllerThumbLeft_Y X Y_axis2d
+[2022.02.23-18.14.07:592][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.23-18.14.07:592][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/MotionControllerThumbLeft_X,MotionControllerThumbLeft_Y X Y_axis2d
+[2022.02.23-18.14.07:592][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.23-18.14.07:592][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/MotionControllerThumbLeft_X axis
+[2022.02.23-18.14.07:592][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.23-18.14.07:592][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/MotionControllerThumbLeft_X axis
+[2022.02.23-18.14.07:592][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.23-18.14.07:592][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/MotionControllerThumbLeft_X axis
+[2022.02.23-18.14.07:592][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.23-18.14.07:592][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/MotionControllerThumbRight_Y axis
+[2022.02.23-18.14.07:592][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.23-18.14.07:592][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/MotionControllerThumbRight_Y axis
+[2022.02.23-18.14.07:592][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.23-18.14.07:592][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/MotionControllerThumbRight_Y axis
+[2022.02.23-18.14.07:592][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.23-18.14.07:592][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/MotionControllerThumbRight_X,MotionControllerThumbRight_Y X Y_axis2d
+[2022.02.23-18.14.07:592][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.23-18.14.07:592][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/MotionControllerThumbRight_X,MotionControllerThumbRight_Y X Y_axis2d
+[2022.02.23-18.14.07:592][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.23-18.14.07:592][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/MotionControllerThumbRight_X,MotionControllerThumbRight_Y X Y_axis2d
+[2022.02.23-18.14.07:592][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.23-18.14.07:592][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/MotionControllerThumbRight_X,MotionControllerThumbRight_Y X Y_axis2d
+[2022.02.23-18.14.07:592][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.23-18.14.07:592][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/MotionControllerThumbRight_X axis
+[2022.02.23-18.14.07:592][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.23-18.14.07:592][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/MotionControllerThumbRight_X axis
+[2022.02.23-18.14.07:592][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.23-18.14.07:592][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/MotionControllerThumbRight_X axis
+[2022.02.23-18.14.07:592][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2022.02.23-18.14.07:626][  0]LogAssetRegistry: Asset discovery search completed in 3.9138 seconds
+[2022.02.23-18.14.07:627][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000006 seconds (updated 0 objects)
+[2022.02.23-18.14.07:651][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.02.23-18.14.07:714][  2]LogSlate: Took 0.003947 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.02.23-18.18.18:396][981]LogSlate: Took 0.000096 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.02.23-18.18.18:410][981]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/VirtualRealityBP/Blueprints/BP_MotionController.BP_MotionController
+[2022.02.23-18.18.18:757][981]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 126 classes and 0 folders.
+[2022.02.23-18.18.19:477][981]LogSlate: Took 0.000131 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.02.23-18.18.19:870][982]LogSlate: Took 0.003318 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.02.23-18.20.10:640][785]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{c807d882-f3b0-4499-984b-355dd870adfc}.
+[2022.02.23-18.20.10:640][785]LogAudioMixer: Resetting audio stream to device id 
+[2022.02.23-18.20.10:654][785]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.23-18.20.10:654][785]LogAudioMixer: Display: 1: FrontRight
+[2022.02.23-18.33.26:423][658]LogSlate: Window 'Replace References' being destroyed
+[2022.02.23-18.33.26:434][658]LogSlate: Window 'Replace References' being destroyed
+[2022.02.23-18.34.13:056][792]BlueprintLog: New page: Compile BP_MotionController
+[2022.02.23-18.34.13:147][792]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2022.02.23-18.34.49:745][653]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2022.02.23-18.34.49:746][653]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/VirtualRealityBP/Maps/MotionControllerMap' took 0.018
+[2022.02.23-18.34.49:748][653]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/VirtualRealityBP/Blueprints/BP_MotionController] ([1] browsable assets)...
+[2022.02.23-18.34.49:755][653]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/VirtualRealityBP/Blueprints/BP_MotionController.BP_MotionController]
+[2022.02.23-18.34.49:755][653]OBJ SavePackage: Finished generating thumbnails for package [/Game/VirtualRealityBP/Blueprints/BP_MotionController]
+[2022.02.23-18.34.49:919][653]LogSavePackage: Moving '../../../../../../Users/Leeon/Documents/Unreal Projects/GestureRecVR_V4/Saved/BP_MotionController_Auto1CA9FF48C4BACBFA507E3DAA50F54A253.tmp' to '../../../../../../Users/Leeon/Documents/Unreal Projects/GestureRecVR_V4/Saved/Autosaves/Game/VirtualRealityBP/Blueprints/BP_MotionController_Auto1.uasset'
+[2022.02.23-18.34.49:922][653]LogFileHelpers: Auto-saving content packages took 0.175
+[2022.02.23-18.36.57:996][699]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube5)
+[2022.02.23-18.37.01:739][847]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GestureBoard2)
+[2022.02.23-18.37.04:135][942]Cmd: TRANSACTION UNDO
+[2022.02.23-18.37.04:135][942]LogEditorTransaction: Undo Clicking on Actors
+[2022.02.23-18.37.04:577][953]Cmd: TRANSACTION UNDO
+[2022.02.23-18.37.04:577][953]LogEditorTransaction: Undo Clicking on Actors
+[2022.02.23-18.37.05:663][998]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube17)
+[2022.02.23-18.37.20:436][530]LogEditorTransaction: Undo Move Node
+[2022.02.23-18.37.26:452][782]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube5)
+[2022.02.23-18.37.43:413][550]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube17)
+[2022.02.23-18.37.46:737][701]LogEditorTransaction: Undo Paste clipboard contents
+[2022.02.23-18.37.52:261][949]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube5)
+[2022.02.23-18.38.00:814][330]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube17)
+[2022.02.23-18.38.26:441][519]BlueprintLog: New page: Compile BP_MotionController
+[2022.02.23-18.38.26:526][519]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2022.02.23-18.38.27:172][531]LogSavePackage: Moving '../../../../../../Users/Leeon/Documents/Unreal Projects/GestureRecVR_V4/Saved/BP_MotionController5C1E3FDC43468D06901800B2BEDFAB9E.tmp' to '../../../../../../Users/Leeon/Documents/Unreal Projects/GestureRecVR_V4/Content/VirtualRealityBP/Blueprints/BP_MotionController.uasset'
+[2022.02.23-18.38.27:211][531]AssetCheck: New page: Asset Save: BP_MotionController
+[2022.02.23-18.38.27:211][531]LogContentValidation: Display: Validating Blueprint /Game/VirtualRealityBP/Blueprints/BP_MotionController.BP_MotionController
+[2022.02.23-18.38.28:123][570]LogTemp: Repeating last play command: VR Preview
+[2022.02.23-18.38.28:130][570]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.02.23-18.38.28:132][570]PIE: New page: PIE session: MotionControllerMap (23 Feb 2022, 18:38:28)
+[2022.02.23-18.38.28:133][570]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2022.02.23-18.38.28:135][570]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2022.02.23-18.38.28:136][570]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap
+[2022.02.23-18.38.28:142][570]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006748s)
+[2022.02.23-18.38.28:143][570]LogAIModule: Creating AISystem for world MotionControllerMap
+[2022.02.23-18.38.28:144][570]LogPlayLevel: PIE: World Init took: (0.001177s)
+[2022.02.23-18.38.28:144][570]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap (0.008164s)
+[2022.02.23-18.38.28:160][570]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2022.02.23-18.38.28:162][570]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2022.02.23-18.38.28:162][570]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.02.23-18.38.28:162][570]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.02.23-18.38.28:162][570]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.02.23-18.38.28:162][570]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.02.23-18.38.28:162][570]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.02.23-18.38.28:162][570]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.02.23-18.38.28:162][570]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.02.23-18.38.28:162][570]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.02.23-18.38.28:162][570]LogAudio: Display: Using built-in audio occlusion.
+[2022.02.23-18.38.28:162][570]LogAudioMixer: Display: Initializing audio mixer.
+[2022.02.23-18.38.28:164][570]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.23-18.38.28:164][570]LogAudioMixer: Display: 1: FrontRight
+[2022.02.23-18.38.28:171][570]LogAudioMixer: Display: Using Audio Device Logitech Speakers (High Definition Audio Device)
+[2022.02.23-18.38.28:171][570]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.02.23-18.38.28:171][570]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.02.23-18.38.28:171][570]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.02.23-18.38.28:172][570]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.02.23-18.38.28:172][570]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.02.23-18.38.28:172][570]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.02.23-18.38.28:182][570]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.02.23-18.38.28:182][570]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.02.23-18.38.28:182][570]LogInit: FAudioDevice initialized.
+[2022.02.23-18.38.28:182][570]LogAudio: Display: Audio Device (ID: 2) registered with world 'MotionControllerMap'.
+[2022.02.23-18.38.28:194][570]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.23-18.38.28:234][570]LogLoad: Game class is 'GameModeBase'
+[2022.02.23-18.38.28:241][570]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap up for play (max tick rate 0) at 2022.02.23-18.38.28
+[2022.02.23-18.38.28:242][570]LogWorld: Bringing up level for play took: 0.002029
+[2022.02.23-18.38.28:243][570]LogOnline: OSS: Creating online subsystem instance for: :Context_9
+[2022.02.23-18.38.28:253][570]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2022.02.23-18.38.28:258][570]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a non-invertible matrix, this results in NaNs! Use Inverse() instead.
+[2022.02.23-18.38.28:258][570]LogOutputDevice: Warning: 
+
+Script Stack (5 frames):
+BP_MotionController_C.SetupRoomScaleOutline
+BP_MotionController_C.ExecuteUbergraph_BP_MotionController
+BP_MotionController_C.ReceiveBeginPlay
+MotionControllerPawn_C.ExecuteUbergraph_MotionControllerPawn
+MotionControllerPawn_C.ReceiveBeginPlay
+
+[2022.02.23-18.38.28:719][570]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.461 s
+[2022.02.23-18.38.28:719][570]LogOutputDevice: Error: === Handled ensure: ===
+[2022.02.23-18.38.28:719][570]LogOutputDevice: Error: 
+[2022.02.23-18.38.28:719][570]LogOutputDevice: Error: Ensure condition failed: false [File:D:/Build/++UE4/Sync/Engine/Source/Runtime/Core/Private/Math/Matrix.cpp] [Line: 8]
+[2022.02.23-18.38.28:719][570]LogOutputDevice: Error: FMatrix::InverseFast(), trying to invert a non-invertible matrix, this results in NaNs! Use Inverse() instead.
+[2022.02.23-18.38.28:719][570]LogOutputDevice: Error: Stack: 
+[2022.02.23-18.38.28:719][570]LogOutputDevice: Error: [Callstack] 0x00007ffd2245b756 UE4Editor-Core.dll!UnknownFunction []
+[2022.02.23-18.38.28:719][570]LogOutputDevice: Error: [Callstack] 0x00007ffd21d9c5fe UE4Editor-Core.dll!UnknownFunction []
+[2022.02.23-18.38.28:719][570]LogOutputDevice: Error: [Callstack] 0x00007ffd1b5dd64b UE4Editor-Engine.dll!UnknownFunction []
+[2022.02.23-18.38.28:719][570]LogOutputDevice: Error: [Callstack] 0x00007ffd1bf18c6a UE4Editor-Engine.dll!UnknownFunction []
+[2022.02.23-18.38.28:719][570]LogOutputDevice: Error: [Callstack] 0x00007ffd1cb9e2ce UE4Editor-Engine.dll!UnknownFunction []
+[2022.02.23-18.38.28:719][570]LogOutputDevice: Error: [Callstack] 0x00007ffd22ac2604 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2022.02.23-18.38.28:719][570]LogOutputDevice: Error: [Callstack] 0x00007ffd22d38176 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2022.02.23-18.38.28:719][570]LogOutputDevice: Error: [Callstack] 0x00007ffd22d4f7b3 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2022.02.23-18.38.28:719][570]LogOutputDevice: Error: [Callstack] 0x00007ffd22d522fd UE4Editor-CoreUObject.dll!UnknownFunction []
+[2022.02.23-18.38.28:719][570]LogOutputDevice: Error: [Callstack] 0x00007ffd22d26b6a UE4Editor-CoreUObject.dll!UnknownFunction []
+[2022.02.23-18.38.28:719][570]LogOutputDevice: Error: [Callstack] 0x00007ffd22d51ef1 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2022.02.23-18.38.28:719][570]LogOutputDevice: Error: [Callstack] 0x00007ffd22d522fd UE4Editor-CoreUObject.dll!UnknownFunction []
+[2022.02.23-18.38.28:719][570]LogOutputDevice: Error: [Callstack] 0x00007ffd22d26b6a UE4Editor-CoreUObject.dll!UnknownFunction []
+[2022.02.23-18.38.28:719][570]LogOutputDevice: Error: [Callstack] 0x00007ffd22d51ef1 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2022.02.23-18.38.28:719][570]LogOutputDevice: Error: [Callstack] 0x00007ffd22d522fd UE4Editor-CoreUObject.dll!UnknownFunction []
+[2022.02.23-18.38.28:719][570]LogOutputDevice: Error: [Callstack] 0x00007ffd22d51704 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2022.02.23-18.38.28:719][570]LogOutputDevice: Error: [Callstack] 0x00007ffd22ac2604 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2022.02.23-18.38.28:719][570]LogOutputDevice: Error: [Callstack] 0x00007ffd22d50e63 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2022.02.23-18.38.28:719][570]LogOutputDevice: Error: [Callstack] 0x00007ffd1b67c435 UE4Editor-Engine.dll!UnknownFunction []
+[2022.02.23-18.38.28:719][570]LogOutputDevice: Error: [Callstack] 0x00007ffd1b64aff7 UE4Editor-Engine.dll!UnknownFunction []
+[2022.02.23-18.38.28:719][570]LogOutputDevice: Error: [Callstack] 0x00007ffd1b65443c UE4Editor-Engine.dll!UnknownFunction []
+[2022.02.23-18.38.28:719][570]LogOutputDevice: Error: [Callstack] 0x00007ffd1b677dc5 UE4Editor-Engine.dll!UnknownFunction []
+[2022.02.23-18.38.28:719][570]LogOutputDevice: Error: [Callstack] 0x00007ffd1b661f2d UE4Editor-Engine.dll!UnknownFunction []
+[2022.02.23-18.38.28:719][570]LogOutputDevice: Error: [Callstack] 0x00007ffd1bd9d50f UE4Editor-Engine.dll!UnknownFunction []
+[2022.02.23-18.38.28:719][570]LogOutputDevice: Error: [Callstack] 0x00007ffd1cb362ac UE4Editor-Engine.dll!UnknownFunction []
+[2022.02.23-18.38.28:719][570]LogOutputDevice: Error: [Callstack] 0x00007ffd22d7ae84 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2022.02.23-18.38.28:719][570]LogOutputDevice: Error: [Callstack] 0x00007ffd22d7d4ef UE4Editor-CoreUObject.dll!UnknownFunction []
+[2022.02.23-18.38.28:719][570]LogOutputDevice: Error: [Callstack] 0x00007ffd22d522fd UE4Editor-CoreUObject.dll!UnknownFunction []
+[2022.02.23-18.38.28:719][570]LogOutputDevice: Error: [Callstack] 0x00007ffd22d26b6a UE4Editor-CoreUObject.dll!UnknownFunction []
+[2022.02.23-18.38.28:719][570]LogOutputDevice: Error: [Callstack] 0x00007ffd22d51ef1 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2022.02.23-18.38.28:719][570]LogOutputDevice: Error: [Callstack] 0x00007ffd22d522fd UE4Editor-CoreUObject.dll!UnknownFunction []
+[2022.02.23-18.38.28:719][570]LogOutputDevice: Error: [Callstack] 0x00007ffd22d51704 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2022.02.23-18.38.28:719][570]LogOutputDevice: Error: [Callstack] 0x00007ffd22ac2604 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2022.02.23-18.38.28:719][570]LogOutputDevice: Error: [Callstack] 0x00007ffd22d50e63 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2022.02.23-18.38.28:719][570]LogOutputDevice: Error: [Callstack] 0x00007ffd1b67c435 UE4Editor-Engine.dll!UnknownFunction []
+[2022.02.23-18.38.28:719][570]LogOutputDevice: Error: [Callstack] 0x00007ffd1b64aff7 UE4Editor-Engine.dll!UnknownFunction []
+[2022.02.23-18.38.28:719][570]LogOutputDevice: Error: [Callstack] 0x00007ffd1b65443c UE4Editor-Engine.dll!UnknownFunction []
+[2022.02.23-18.38.28:719][570]LogOutputDevice: Error: [Callstack] 0x00007ffd1ca2ec42 UE4Editor-Engine.dll!UnknownFunction []
+[2022.02.23-18.38.28:719][570]LogOutputDevice: Error: [Callstack] 0x00007ffd1bda5fa1 UE4Editor-Engine.dll!UnknownFunction []
+[2022.02.23-18.38.28:719][570]LogOutputDevice: Error: [Callstack] 0x00007ffd1c9d344e UE4Editor-Engine.dll!UnknownFunction []
+[2022.02.23-18.38.28:719][570]LogOutputDevice: Error: [Callstack] 0x00007ffd1bdc7f8d UE4Editor-Engine.dll!UnknownFunction []
+[2022.02.23-18.38.28:719][570]LogOutputDevice: Error: [Callstack] 0x00007ffd1a41a1a5 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.02.23-18.38.28:719][570]LogOutputDevice: Error: [Callstack] 0x00007ffd1a43cd6f UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.02.23-18.38.28:719][570]LogOutputDevice: Error: [Callstack] 0x00007ffd1a41aedd UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.02.23-18.38.28:719][570]LogOutputDevice: Error: [Callstack] 0x00007ffd1a458c42 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.02.23-18.38.28:719][570]LogOutputDevice: Error: [Callstack] 0x00007ffd1a45c1d1 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.02.23-18.38.28:719][570]LogOutputDevice: Error: [Callstack] 0x00007ffd1a45ba98 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.02.23-18.38.28:720][570]LogOutputDevice: Error: [Callstack] 0x00007ffd19eb8c38 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.02.23-18.38.28:720][570]LogOutputDevice: Error: [Callstack] 0x00007ffd1a7d50e6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.02.23-18.38.28:720][570]LogOutputDevice: Error: [Callstack] 0x00007ff622889bc2 UE4Editor.exe!UnknownFunction []
+[2022.02.23-18.38.28:720][570]LogOutputDevice: Error: [Callstack] 0x00007ff6228a117c UE4Editor.exe!UnknownFunction []
+[2022.02.23-18.38.28:720][570]LogOutputDevice: Error: [Callstack] 0x00007ff6228a125a UE4Editor.exe!UnknownFunction []
+[2022.02.23-18.38.28:720][570]LogOutputDevice: Error: [Callstack] 0x00007ff6228b52bd UE4Editor.exe!UnknownFunction []
+[2022.02.23-18.38.28:720][570]LogOutputDevice: Error: [Callstack] 0x00007ff6228b7fea UE4Editor.exe!UnknownFunction []
+[2022.02.23-18.38.28:720][570]LogOutputDevice: Error: [Callstack] 0x00007ffdfef07034 KERNEL32.DLL!UnknownFunction []
+[2022.02.23-18.38.28:720][570]LogOutputDevice: Error: [Callstack] 0x00007ffdffb62651 ntdll.dll!UnknownFunction []
+[2022.02.23-18.38.28:720][570]LogOutputDevice: Error: 
