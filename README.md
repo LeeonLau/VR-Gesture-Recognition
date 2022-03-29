@@ -5,7 +5,6 @@ Documentation of Unreal Engine (UE) levels created as part of an honours project
 The following installation guide details how to access the end result of work implemented during the project.
 
 ### Installation Guide
-
 * If you have UE 4.26.2 installed, skip to step 4. If you have the Epic Games Launcher (EGL) installed skip to step 2.
 
 1. Install the EGL from this link: https://store.epicgames.com/en-US/download
