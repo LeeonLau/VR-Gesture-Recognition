@@ -1,24 +1,24 @@
 # VR-Gesture-Recognition
 
-Documentation of UE4 levels created as part of an honours project for the University of Glasgow.
+Documentation of Unreal Engine (UE) levels created as part of an honours project for the University of Glasgow.
 
 The following installation guide details how to access the end result of work implemented during the project.
 
 ### Installation Guide
 
-* If you Unreal Engine 4.26.2 installed, skip to step 4. If you have the Epic Games Launcher (EGL) installed skip to step 2.
+* If you have UE 4.26.2 installed, skip to step 4. If you have the Epic Games Launcher (EGL) installed skip to step 2.
 
 1. Install the EGL from this link: https://store.epicgames.com/en-US/download
 
 2. Open up the EGL and select Unreal Engine on the sidebar. Select Library on the navigation bar and click the + symbol beside Engine Versions.
 
-3. Select the dropdown tab beside the version of the new Unreal Engine slot, pick version 4.26.2 then install.
+3. Select the dropdown tab beside the version of the new UE slot, pick version 4.26.2 then install.
 
-4. Once installed, use the following link to do a partial download of this repository for the current version: https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/LeeonLau/VR-Gesture-Recognition/tree/main/GestureRecVR_V4
+4. Use the following link to do a partial download of this repository for the current version: https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/LeeonLau/VR-Gesture-Recognition/tree/main/GestureRecVR_V4
 
-5. Open up Unreal Engine 4.26.2, click on More then Browse... to open your workspace. Extract the downloaded project from step 4 into your workspace.
+5. Once installed, open up Unreal Engine 4.26.2, click on More then Browse... to open your workspace. Extract the downloaded UE project from step 4 into your workspace.
 
-6. Back on Unreal Engine, select Refresh and the newly added project should be available. Double click to open the project.
+6. Back on UE, select Refresh and the newly added project should be available. Double click to open the project.
 
 7. Once opened, Play (or Alt+P) can be clicked start the level. Only Vive controllers are mapped since it is the only available controller I could validate correct mapping for. This can be configured in Edit -> Project Settings -> Engine -> Input.
 
